@@ -1,0 +1,8 @@
+---
+deployment:
+    tasks:
+        - export DEPLOYPATH=/home/language/public_html/
+        - /bin/cp /_site/* $DEPLOYPATH
+
+
+# copies all files from _site folder into public_html deployment folder
