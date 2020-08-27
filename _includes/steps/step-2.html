@@ -1,0 +1,303 @@
+<style>
+
+    h1 {
+        font-size: 30px;
+    }
+
+    #paragraph {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+    }
+
+    td, th {
+        border: 0px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+    }
+
+    table#wfw {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        float: left;
+        border-top: 3px solid #ffffff;
+    }
+
+        table#wfw td, th {
+            border: 0px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+            background-color: #ffffff;
+        }
+
+        table#wfw td {
+            -webkit-margin-before: 0em !important;
+        }
+
+        table#wfw tr:nth-child(odd) {
+            font-weight: bold;
+        }
+
+    table#t5_2 tr:nth-child(odd) {
+        ;
+    }
+
+    table#t5_4 {
+        ;
+    }
+
+    table#pt {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        table#pt td, th {
+            border: 0px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+    p.pt {
+        margin: 6px 2px 6px 2px;
+        line-height: 2px;
+    }
+
+    p.bodytext {
+        margin: 2px 2px 2px 2px;
+        line-height: 2px;
+    }
+
+    p.mainbodytext {
+        margin: 8px 2px 0px 2px;
+        line-height: 2px;
+    }
+
+    p.literalbodytext {
+        margin: 0px 2px 8px 2px;
+        line-height: 2px;
+    }
+
+    .top-line {
+        width: 100%;
+        max-width: 837px;
+        margin-left: 7px;
+        border-top: 1px darkgray solid;
+    }
+
+    .top-line-fat {
+        width: 100%;
+        max-width: 837px;
+        margin-left: 7px;
+        border-top: 3px darkgray solid;
+    }
+
+    .bottom-line {
+        width: 100%;
+        border-bottom: 1px darkgray solid;
+    }
+
+    .nopadding {
+        padding: 0px;
+        !important;
+    }
+
+    @media only screen and (max-width: 500px) {
+        body {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+    }
+
+    @media only screen and (min-width: 601px) {
+        body {
+            margin-left: 100px;
+            margin-right: 100px;
+        }
+    }
+
+    u {
+        text-decoration: underline;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .center {
+        text-align: center
+    }
+
+    .left {
+        text-align: left
+    }
+
+    audio.fixedAudio {
+        position: fixed;
+        left: 2%;
+        top: 10%;
+    }
+
+    .sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        padding: 10px;
+    }
+
+    .sticky2 {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 60px;
+        padding: 10px;
+    }
+
+    div.fixedRedirect {
+        position: fixed;
+        left: 0%;
+        bottom: 0%;
+        background-color: #d8ebef;
+        z-index: 100;
+    }
+
+    div.relativeRedirect {
+        position: relative;
+        left: 0%;
+        bottom: 10%;
+        background-color: #d8ebef;
+        display: inline-block;
+    }
+
+    .titlepicture {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 110px;
+        width: 130px;
+    }
+
+    #images {
+        text-align: center;
+    }
+</style>
+
+{% for instructions in {{include.path}}[include.file] limit:1%}
+<div id="images">
+    <img class="titlepicture" border="0" alt="Flag" src="{{site.baseurl}}{{instructions.FlagPath}}" />
+    <img class="titlepicture" border="0" alt="Foot" src="{{site.baseurl}}{{instructions.FootPath}}" />
+</div>
+<h2 class="center">{{instructions.ChapterTitle}}</h2>
+<p class="center">{{instructions.InstructionSentence}}</p>
+{% endfor %}
+
+{% for steps in {{include.path}}[include.file] limit:1%}
+<div class="fixedRedirect">
+    <a href="{{site.url}}{{steps.5-StepsPath}}">{{steps.5-StepsText}}</a>
+</div>
+{% endfor %}
+<br>
+
+{% for audiotext in {{include.path}}[include.file] limit:1%}
+<table width="80%">
+    <tr>
+        <td>
+            <p> {{audiotext.SlowText}} </p>
+        </td>
+        <td>
+            <p> {{audiotext.NormalText}} </p>
+        </td>
+    </tr>
+</table>
+{% endfor %}
+
+
+<table align="center">
+    {% for audios in {{include.path}}[include.file] limit:1%}
+    <audio controls class="sticky">
+        <source src="{{audios.SlowAudio}}" type="audio/mpeg">
+        Your browser does not support the audio tag.
+    </audio>
+    <audio controls class="sticky">
+        <source src="{{audios.NormalAudio}}" type="audio/mpeg">
+        Your browser does not support the audio tag.
+    </audio>
+    {% endfor %}
+</table>
+<div class="top-line-fat">&nbsp;</div>
+<div class="main">
+
+
+    {% assign var = 0 %}
+    {% for object in {{include.path}}[include.file] offset:1 limit:1%}
+    <table id="wrapper" align="center">
+        <tr>
+            <td>
+                <table align="left" width="100%" id="ht" style="max-width:800px !important;">
+                    <tr>
+                        <td>
+                            <table align="center" width="100%">
+                                <tr>
+                                    <td>
+                                        <table align="center">
+                                            <tr>
+                                                <td>
+                                                    {% for titles in object.MainTitle %}
+                                                    <table align="left" id="">
+                                                        <tr>
+                                                            <td>  <p class="bodytext"><b>{{object.MainTitle[var]}}</b></p></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>  <p class="bodytext">{{object.LiteralTitle[var]}}</p></td>
+                                                        </tr>
+                                                    </table>
+                                                    {% assign var = var | plus:1 %}
+                                                    {{titles.MainTitle}}
+                                                    {% endfor %}
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            {% assign var = 0 %}
+                            {% endfor %}
+
+                            {% assign var = 0 %}
+                            {% for object in {{include.path}}[include.file] offset:2%}
+                            <table align="left" width="100%" id="wfw-sentence" style="max-width:800px !important;">
+                                <tr>
+                                    <td>
+                                        {% for translations in object.MainText %}
+                                        <table align="left" id="wfw">
+                                            <tr>
+                                                <td>  <p class="mainbodytext">{{object.MainText[var]}}</p></td>
+                                            </tr>
+                                            <tr>
+                                                <td>  <p class="literalbodytext">{{object.LiteralTranslation[var]}}</p></td>
+                                            </tr>
+                                        </table>
+                                        {% assign var = var | plus:1 %}
+                                        {% endfor %}
+                                    </td>
+                                </tr>
+                            </table>
+                            {% assign var = 0 %}
+                            {% endfor %}
+
+                            <table width="100%">
+                                <tr>
+                                    <td class="nopadding">
+                                        <div class="top-line-fat">&nbsp;</div>
+                                    </td>
+                                </tr>
+                            </table>
+                            {% for next in {{include.path}}[include.file] limit:1%}
+                            <div class="relativeRedirect">
+                                <a href="{{site.url}}{{next.NextPath}}">{{next.NextText}}</a>
+                            </div>
+                            {% endfor %}
+

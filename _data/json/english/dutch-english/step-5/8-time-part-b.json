@@ -1,0 +1,119 @@
+[
+   {
+   },
+   {
+      "MainText": [
+         "spoedig / gauw",
+         "vroeg",
+         "laat",
+         "te laat",
+         "na",
+         "voor / voordat"
+      ],
+      "LiteralTranslation": [
+         "Soon",
+         "Early",
+         "Late",
+         "Too late",
+         "After",
+         "Before"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-42.mp3"
+   },
+   {
+      "MainText": [
+         "avond, de",
+         "morgen, de / ochtend, de",
+         "tussen de middag",
+         "middag, de",
+         "nacht, de"
+      ],
+      "LiteralTranslation": [
+         "Evening",
+         "Morning",
+         "Noon",
+         "Afternoon",
+         "Night"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-43.mp3"
+   },
+   {
+      "MainText": [
+         "minuut, de",
+         "uur, het",
+         "dag, de",
+         "week, de",
+         "deze week",
+         "vorige week",
+         "volgende week",
+         "weekend, het",
+         "maand, de",
+         "jaar, het"
+      ],
+      "LiteralTranslation": [
+         "Minute",
+         "Hour",
+         "Day",
+         "Week",
+         "This week",
+         "Last week",
+         "Next week",
+         "Weekend",
+         "Month",
+         "Year"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-44.mp3"
+   },
+   {
+      "MainText": [
+         "maandag",
+         "dinsdag",
+         "woensdag",
+         "donderdag",
+         "vrijdag",
+         "zaterdag",
+         "zondag"
+      ],
+      "LiteralTranslation": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday",
+         "Saturday",
+         "Sunday"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-45.mp3"
+   },
+   {
+      "MainText": [
+         "januari",
+         "februari",
+         "maart",
+         "april",
+         "mei",
+         "juni",
+         "juli",
+         "augustus",
+         "september",
+         "oktober",
+         "november",
+         "december"
+      ],
+      "LiteralTranslation": [
+         "January",
+         "February",
+         "March ",
+         "April ",
+         "May",
+         "June",
+         "July",
+         "August",
+         "September",
+         "October",
+         "November",
+         "December"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-46.mp3"
+   }
+]

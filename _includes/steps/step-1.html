@@ -1,0 +1,199 @@
+
+<style>
+    <style >
+    p.pt {
+        margin: 6px 2px 6px 2px;
+        line-height: 2px;
+    }
+
+    p.bodytext {
+        margin: 2px 2px 2px 2px;
+        line-height: 2px;
+    }
+
+    .top-line {
+        width: 100%;
+        max-width: 837px;
+        border-top: 1px darkgray solid;
+    }
+
+    .top-line-fat {
+        width: 100%;
+        max-width: 837px;
+        border-top: 3px darkgray solid;
+    }
+
+    .bottom-line {
+        width: 100%;
+        border-bottom: 1px darkgray solid;
+    }
+
+    .nopadding {
+        padding: 0px;
+        !important;
+    }
+
+    @media only screen and (max-width: 500px) {
+        body {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+    }
+
+    @media only screen and (min-width: 601px) {
+        body {
+            margin-left: 100px;
+            margin-right: 100px;
+        }
+    }
+
+    u {
+        text-decoration: underline;
+    }
+
+    .center {
+        text-align: center
+    }
+
+    .left {
+        text-align: left
+    }
+
+    div.fixedRedirect {
+        position: fixed;
+        left: 0%;
+        bottom: 0%;
+        background-color: #d8ebef;
+        z-index: 100;
+    }
+
+    div.relativeRedirect {
+        position: relative;
+        left: 45%;
+        bottom: 10%;
+        background-color: #d8ebef;
+        display: inline-block;
+    }
+
+    .titlepicture {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 110px;
+        width: 130px;
+    }
+
+    #images {
+        text-align: center;
+    }
+</style>
+
+{% for instructions in {{include.path}}[include.file] limit:1%}
+<div id="images">
+    <img class="titlepicture" border="0" alt="Flag" src="{{site.baseurl}}{{instructions.FlagPath}}" />
+    <img class="titlepicture" border="0" alt="Foot" src="{{site.baseurl}}{{instructions.FootPath}}" />
+</div>
+<h2 class="center">{{instructions.ChapterTitle}}</h2>
+<p class="left">{{instructions.InstructionSentence}}</p>
+{% endfor %}
+
+
+{% for steps in {{include.path}}[include.file] limit:1%}
+<div class="fixedRedirect">
+    <a href="{{site.url}}{{steps.5-StepsPath}}">{{steps.5-StepsText}}</a>
+</div>
+{% endfor %}
+
+<br>
+
+<table width="100%">
+    <tr>
+        <td class="nopadding">
+            <div class="top-line-fat">&nbsp;</div>
+        </td>
+    </tr>
+</table>
+{% assign var = 0 %}
+{% for object in {{include.path}}[include.file] offset:1%}
+<table align="left" width="90%" id="wfw-sentence" border="0" style="max-width:800px !important;">
+    <tr>
+        <td>
+            {% for translations in object.MainText %}
+            <table align="left" id="wfw">
+                <tr>
+                    <td>  <p class="bodytext"> {{object.MainText[var]}} </p></td>
+                </tr>
+                <tr>
+                    <td>  <p class="bodytext"> {{object.LiteralTranslation[var]}} </p></td>
+                </tr>
+            </table>
+            {% assign var = var | plus:1 %}
+            {% endfor %}
+            <table width="100%" id="pt">
+                <tr>
+                    <td style="text-align:left"> {{object.ProperTranslation}} </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+{% if object.AudioPath2  %}
+<table align="left" width="10%" style="display:inline-block;">
+    <tr>
+        <td height="60">
+            <audio controls style="width:50px">
+                <source src="{{object.AudioPath}}" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+            {{object.AudioNumber}}
+        </td>
+        <td height="60">
+            <audio controls style="width:50px">
+                <source src="{{object.AudioPath2}}" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+            {{object.AudioNumber2}}
+        </td>
+    </tr>
+
+</table>
+{% else %}
+<table align="left" width="10%" style="display:inline-block;">
+    <tr>
+        <td height="60">
+            <audio controls style="width:50px">
+                <source src="{{object.AudioPath}}" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+            {{object.AudioNumber}}
+        </td>
+    </tr>
+</table>
+{% endif %}
+
+{% if forloop.last == false %}
+<table width="100%">
+    <tr>
+        <td class="nopadding">
+            <div class="top-line">&nbsp;</div>
+        </td>
+    </tr>
+</table>
+{% else %}
+<table width="100%">
+    <tr>
+        <td class="nopadding">
+            <div class="top-line-fat">&nbsp;</div>
+        </td>
+    </tr>
+</table>
+{% endif %}
+
+{% assign var = 0 %}
+{% endfor %}
+
+{% for next in {{include.path}}[include.file] limit:1%}
+<div class="relativeRedirect">
+    <a href="{{site.url}}{{next.NextPath}}">{{next.NextText}}</a>
+</div>
+{% endfor %}

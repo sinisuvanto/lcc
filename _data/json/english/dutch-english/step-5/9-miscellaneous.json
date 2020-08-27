@@ -1,0 +1,103 @@
+[
+  {
+    "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+    "5-StepsText": "Back to 5 Steps",
+    "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+    "FootPath": "/assets/img/footsteps/foot5.png",
+    "ChapterTitle": "9. Miscellaneous"
+  },
+   {
+      "MainText": [
+         "een beetje",
+         "veel",
+         "weer / opnieuw",
+         "al",
+         "ook",
+         "en",
+         "maar",
+         "naar beneden",
+         "alles",
+         "voor "
+      ],
+      "LiteralTranslation": [
+         "A little",
+         "A lot / Much",
+         "Again",
+         "Already",
+         "Also / Too",
+         "And",
+         "But",
+         "Down",
+         "Everything",
+         "For (someone)"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-47.mp3"
+   },
+   {
+      "MainText": [
+         "in",
+         "minder",
+         "mevrouw",
+         "misschien",
+         "meneer",
+         "meer",
+         "mevrouw",
+         "niet",
+         "niet nodig",
+         "nog niet"
+      ],
+      "LiteralTranslation": [
+         "In",
+         "Less ",
+         "Madam",
+         "Maybe / Perhaps",
+         "Mister",
+         "More ",
+         "Mrs.",
+         "Not",
+         "Not needed",
+         "Not yet"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-48.mp3"
+   },
+   {
+      "MainText": [
+         "niets",
+         "op",
+         "of",
+         "buiten",
+         "meneer",
+         "iets",
+         "nog ",
+         "samen",
+         "onder",
+         "totdat / tot"
+      ],
+      "LiteralTranslation": [
+         "Nothing",
+         "On",
+         "Or",
+         "Outside",
+         "Sir",
+         "Something",
+         "Still (continuing)",
+         "Together",
+         "Under",
+         "Until"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-49.mp3"
+   },
+   {
+      "MainText": [
+         "omhoog / naar boven",
+         "zal / zullen",
+         "met"
+      ],
+      "LiteralTranslation": [
+         "Up",
+         "Will (intend to)",
+         "With"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-50.mp3"
+   }
+]

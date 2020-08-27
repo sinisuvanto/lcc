@@ -1,0 +1,333 @@
+[
+  {
+    "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+    "5-StepsText": "Back to 5 Steps",
+    "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+    "FootPath": "/assets/img/footsteps/foot5.png",
+    "ChapterTitle": "5. Nouns",
+    "NextPath": "/dir/english/courses/dutch-english/step-5/6-adjectives",
+    "NextText": "Next Word List"
+  },
+   {
+      "MainText": [
+         "adres, het",
+         "vliegtuig, het",
+         "vliegveld, het",
+         "tas, de",
+         "bank, de",
+         "badkamer, de",
+         "strand, het",
+         "bed, het",
+         "rekening, de",
+         "jongen, de"
+      ],
+      "LiteralTranslation": [
+         "Address",
+         "Airplane / Plane",
+         "Airport",
+         "Bag",
+         "Bank",
+         "Bathroom",
+         "Beach",
+         "Bed",
+         "Bill",
+         "Boy"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-21.mp3"
+   },
+   {
+      "MainText": [
+         "brood, het",
+         "ontbijt, het",
+         "broer, de",
+         "gebouw, het",
+         "bus, de",
+         "auto, de",
+         "stoel, de",
+         "kind, het",
+         "stad, de",
+         "kleren, de"
+      ],
+      "LiteralTranslation": [
+         "Bread",
+         "Breakfast",
+         "Brother",
+         "Building",
+         "Bus",
+         "Car",
+         "Chair",
+         "Child",
+         "City / Town",
+         "Clothes"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-22.mp3"
+   },
+   {
+      "MainText": [
+         "koffie, de",
+         "land, het",
+         "creditcard, de",
+         "kop, de / kopje, het",
+         "dochter, de",
+         "nagerecht, het / toetje, het",
+         "avondeten, het",
+         "dokter, de",
+         "deur, de",
+         "drank, de / drankje, het"
+      ],
+      "LiteralTranslation": [
+         "Coffee",
+         "Country",
+         "Credit card",
+         "Cup",
+         "Daughter",
+         "Dessert",
+         "Dinner",
+         "Doctor",
+         "Door",
+         "Drink "
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-23.mp3"
+   },
+   {
+      "MainText": [
+         "ambassade, de",
+         "noodgeval, het",
+         "gezin, het / familie, de",
+         "vader, de",
+         "vis, de",
+         "vlucht, de",
+         "verdieping, de / etage, de",
+         "eten, het",
+         "vriend, de",
+         "fruit, het"
+      ],
+      "LiteralTranslation": [
+         "Embassy",
+         "Emergency",
+         "Family",
+         "Father",
+         "Fish",
+         "Flight",
+         "Floor / Story",
+         "Food",
+         "Friend",
+         "Fruit"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-24.mp3"
+   },
+   {
+      "MainText": [
+         "meisje, het",
+         "gast, de",
+         "helft, de",
+         "vakantie, de",
+         "thuis / huis, het",
+         "ziekenhuis, het",
+         "hotel, het",
+         "huis, het",
+         "informatie, de",
+         "baan, de / werk, het"
+      ],
+      "LiteralTranslation": [
+         "Girl",
+         "Guest",
+         "Half",
+         "Holiday / Vacation ",
+         "Home",
+         "Hospital",
+         "Hotel",
+         "House",
+         "Information",
+         "Job"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-25.mp3"
+   },
+   {
+      "MainText": [
+         "reis, de / trip, de",
+         "sleutel, de",
+         "taal, de",
+         "lift, de",
+         "baggage, de",
+         "lunch, de",
+         "man, de",
+         "plattegrond, de / kaart, de",
+         "maaltijd, de",
+         "vlees, het"
+      ],
+      "LiteralTranslation": [
+         "Journey / Trip",
+         "Key",
+         "Language",
+         "Lift  / Elevator ",
+         "Luggage / Baggage",
+         "Lunch",
+         "Man",
+         "Map",
+         "Meal",
+         "Meat"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-26.mp3"
+   },
+   {
+      "MainText": [
+         "medicijn, het",
+         "menu, het",
+         "mobiele telefoon, de",
+         "geld, het",
+         "moeder, de",
+         "museum, het",
+         "naam, de",
+         "nationaliteit, de",
+         "buurman, de / buurvrouw, de",
+         "krant, de"
+      ],
+      "LiteralTranslation": [
+         "Medicine",
+         "Menu",
+         "Mobile phone / Cell phone ",
+         "Money",
+         "Mother",
+         "Museum",
+         "Name",
+         "Nationality",
+         "Neighbor",
+         "Newspaper"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-27.mp3"
+   },
+   {
+      "MainText": [
+         "nummer, het",
+         "pijn, de",
+         "paspoort, het",
+         "mensen, de",
+         "benzinestation, het",
+         "benzine, de",
+         "apotheek, de",
+         "foto, de",
+         "politieagent, de",
+         "postkantoor, het"
+      ],
+      "LiteralTranslation": [
+         "Number",
+         "Pain",
+         "Passport",
+         "People",
+         "Petrol station  / Gas station ",
+         "Petrol  / Gas ",
+         "Pharmacy",
+         "Picture / Photo",
+         "Police officer",
+         "Post office"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-28.mp3"
+   },
+   {
+      "MainText": [
+         "prijs, de",
+         "probleem, het",
+         "treinstation, het",
+         "regen, de",
+         "bonnetje, het / ontvangstbewijs, het",
+         "receptie, de",
+         "reservering, de",
+         "restaurant, het",
+         "rijst, de",
+         "weg, de"
+      ],
+      "LiteralTranslation": [
+         "Price",
+         "Problem",
+         "Railway station",
+         "Rain",
+         "Receipt",
+         "Reception (hotel)",
+         "Reservation",
+         "Restaurant",
+         "Rice",
+         "Road"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-29.mp3"
+   },
+   {
+      "MainText": [
+         "kamer, de",
+         "zee, de",
+         "schip, het",
+         "winkel, de",
+         "winkelcentrum, het",
+         "zuster, de / zus, de",
+         "frisdrank, de",
+         "iemand",
+         "iets",
+         "straat, de"
+      ],
+      "LiteralTranslation": [
+         "Room ",
+         "Sea",
+         "Ship",
+         "Shop",
+         "Shopping center / Mall ",
+         "Sister",
+         "Soft drink",
+         "Somebody / Someone",
+         "Something",
+         "Street"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-30.mp3"
+   },
+   {
+      "MainText": [
+         "koffer, de",
+         "supermarkt, de",
+         "zwembad, het",
+         "tafel, de",
+         "taxi, de",
+         "thee, de",
+         "telefoon, de",
+         "temperatuur, de",
+         "ticket, het / kaartje, het",
+         "toilet, het / wc, de"
+      ],
+      "LiteralTranslation": [
+         "Suitcase",
+         "Supermarket",
+         "Swimming pool",
+         "Table",
+         "Taxi",
+         "Tea",
+         "Telephone",
+         "Temperature (# of degrees)",
+         "Ticket",
+         "Toilet  / Restroom "
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-31.mp3"
+   },
+   {
+      "MainText": [
+         "tourist, de",
+         "handdoek, de",
+         "trein, de",
+         "metro, de",
+         "groenten, de",
+         "visum, het",
+         "water, het",
+         "weer, het",
+         "vrouw, de"
+      ],
+      "LiteralTranslation": [
+         "Tourist",
+         "Towel",
+         "Train",
+         "Underground  / Subway ",
+         "Vegetables",
+         "Visa",
+         "Water",
+         "Weather",
+         "Woman"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-32.mp3"
+   }
+]

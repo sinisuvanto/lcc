@@ -1,0 +1,72 @@
+[
+  {
+    "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+    "MainTitle": "Dutch Crash Course",
+    "InstructionSentence": "You can use our 5 steps to learn any way you like, but here is the order we recommend:"
+  },
+  {
+    "StepTitle": "Step 1 - Listen to the story and repeat.",
+    "Path": "/dir/english/courses/dutch-english/step-1",
+    "FootPath": "/assets/img/footsteps/foot1.png",
+    "ChapterTitles": {
+      "1": "Chapter 1",
+      "2": "Chapter 2",
+      "3": "Chapter 3",
+      "4": "Chapter 4",
+      "5": "Chapter 5"
+    }
+  },
+  {
+    "StepTitle": "Step 2 - Listen to the story while reading along.",
+    "Path": "/dir/english/courses/dutch-english/step-2",
+    "FootPath": "/assets/img/footsteps/footinverted2.png",
+    "ChapterTitles": {
+      "1": "Chapter 1",
+      "2": "Chapter 2",
+      "3": "Chapter 3",
+      "4": "Chapter 4",
+      "5": "Chapter 5"
+    }
+  },
+  {
+    "StepTitle": "Step 3 - Exercise 1 - Translate the story into English.",
+    "Path": "/dir/english/courses/dutch-english/step-3",
+    "FootPath": "/assets/img/footsteps/foot3.png",
+    "ChapterTitles": {
+      "1": "Chapter 1",
+      "2": "Chapter 2",
+      "3": "Chapter 3",
+      "4": "Chapter 4",
+      "5": "Chapter 5"
+    }
+  },
+  {
+    "StepTitle": "Step 4 - Exercise 2 - Translate the story into Dutch.",
+    "Path": "/dir/english/courses/dutch-english/step-4",
+    "FootPath": "/assets/img/footsteps/footinverted4.png",
+    "ChapterTitles": {
+      "1": "Chapter 1",
+      "2": "Chapter 2",
+      "3": "Chapter 3",
+      "4": "Chapter 4",
+      "5": "Chapter 5"
+    }
+  },
+  {
+    "StepTitle": "Step 5 - Learn the word lists.",
+    "Path": "/dir/english/courses/dutch-english/step-5",
+    "FootPath": "/assets/img/footsteps/foot5.png",
+    "ChapterTitles": {
+      "1": "1. Phrases",
+      "2": "2. Personal Pronouns",
+      "3": "3. Two Important Verbs",
+      "4": "4. More Verbs",
+      "5": "5. Nouns",
+      "6": "6. Adjectives",
+      "7": "7. Numbers",
+      "8": "8. Time",
+      "9": "9. Miscellaneous"
+    }
+  }
+
+]

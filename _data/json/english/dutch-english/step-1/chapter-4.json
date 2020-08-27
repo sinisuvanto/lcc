@@ -1,0 +1,1229 @@
+[
+   {
+      "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+      "5-StepsText": "Back to 5 steps",
+      "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+      "FootPath": "/assets/img/footsteps/foot1.png",
+      "ChapterTitle": "Chapter 4",
+      "NextPath": "/dir/english/courses/dutch-english/step-1/chapter-5",
+      "NextText": "Next Chapter"
+   },
+   {
+      "MainText": [
+         "Terwijl",
+         "Peter",
+         "met",
+         "Mr.",
+         "Yamaha",
+         "praat,"
+      ],
+      "LiteralTranslation": [
+         "while",
+         "Peter",
+         "with",
+         "Mr.",
+         "Yamaha",
+         "talks"
+      ],
+      "ProperTranslation": "While Peter talks to Mr. Yamaha,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-141.mp3",
+      "AudioNumber": 141
+   },
+   {
+      "MainText": [
+         "loopt",
+         "Helen",
+         "naar",
+         "het",
+         "postkantoor",
+         "om",
+         "wat",
+         "brieven",
+         "en",
+         "ansichtkaarten",
+         "te",
+         "versturen."
+      ],
+      "LiteralTranslation": [
+         "walks",
+         "Helen",
+         "to",
+         "the",
+         "post office",
+         "to",
+         "some",
+         "letters",
+         "and",
+         "postcards",
+         "to",
+         "send"
+      ],
+      "ProperTranslation": "Helen walks to the post office to send some letters and postcards.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-142.mp3",
+      "AudioNumber": 142
+   },
+   {
+      "MainText": [
+         "Haar",
+         "moeder",
+         "in",
+         "Engeland",
+         "ontvangt",
+         "graag",
+         "ansichtkaarten."
+      ],
+      "LiteralTranslation": [
+         "her",
+         "mother",
+         "in",
+         "England",
+         "receives",
+         "gladly",
+         "postcards"
+      ],
+      "ProperTranslation": "Her mother in England loves to receive postcards.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-143.mp3",
+      "AudioNumber": 143
+   },
+   {
+      "MainText": [
+         "Helen",
+         "is",
+         "teleurgesteld",
+         "als",
+         "zij",
+         "van",
+         "iemand",
+         "hoort "
+      ],
+      "LiteralTranslation": [
+         "Helen",
+         "is",
+         "disappointed",
+         "when",
+         "she",
+         "from",
+         "someone",
+         "hears"
+      ],
+      "ProperTranslation": "Helen feels sad when she hears from someone",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-144.mp3",
+      "AudioNumber": 144
+   },
+   {
+      "MainText": [
+         "dat",
+         "het",
+         "postkantoor",
+         "vandaag",
+         "gesloten",
+         "is."
+      ],
+      "LiteralTranslation": [
+         "that",
+         "the",
+         "post office",
+         "today",
+         "closed",
+         "is"
+      ],
+      "ProperTranslation": "that the post office is closed today.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-145.mp3",
+      "AudioNumber": 145
+   },
+   {
+      "MainText": [
+         "Dan",
+         "gaat",
+         "zij",
+         "naar",
+         "de",
+         "bank",
+         "om",
+         "wat",
+         "geld",
+         "te",
+         "halen"
+      ],
+      "LiteralTranslation": [
+         "then",
+         "goes",
+         "she",
+         "to",
+         "the",
+         "bank",
+         "to",
+         "some",
+         "money",
+         "to",
+         "fetch"
+      ],
+      "ProperTranslation": "She then goes to the bank to get some money",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-146.mp3",
+      "AudioNumber": 146
+   },
+   {
+      "MainText": [
+         "en",
+         "naar",
+         "de",
+         "supermarkt",
+         "om",
+         "wat",
+         "eten",
+         "te",
+         "kopen."
+      ],
+      "LiteralTranslation": [
+         "and",
+         "to",
+         "the",
+         "supermarket",
+         "to",
+         "some",
+         "food",
+         "to",
+         "buy"
+      ],
+      "ProperTranslation": "and to the supermarket to buy some food.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-147.mp3",
+      "AudioNumber": 147
+   },
+   {
+      "MainText": [
+         "De",
+         "kinderen",
+         "lopen",
+         "door",
+         "het",
+         "park",
+         "in",
+         "de",
+         "hete",
+         "zon."
+      ],
+      "LiteralTranslation": [
+         "the",
+         "children",
+         "walk",
+         "through",
+         "the",
+         "park",
+         "in",
+         "the",
+         "hot",
+         "sun"
+      ],
+      "ProperTranslation": "The children walk through the park in the hot sun.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-148.mp3",
+      "AudioNumber": 148
+   },
+   {
+      "MainText": [
+         "Ze",
+         "genieten",
+         "ervan",
+         "om",
+         "naar",
+         "de",
+         "verschillende",
+         "lokale",
+         "dieren",
+         "en",
+         "planten",
+         "te",
+         "kijken."
+      ],
+      "LiteralTranslation": [
+         "they",
+         "enjoy",
+         "of it",
+         "to",
+         "at",
+         "the",
+         "different",
+         "local",
+         "animals",
+         "and",
+         "plants",
+         "to",
+         "look"
+      ],
+      "ProperTranslation": "They enjoy looking at the different local animals and plants.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-149.mp3",
+      "AudioNumber": 149
+   },
+   {
+      "MainText": [
+         "Na",
+         "een",
+         "poosje",
+         "krijgen",
+         "ze",
+         "dorst."
+      ],
+      "LiteralTranslation": [
+         "after",
+         "a",
+         "while",
+         "get",
+         "they",
+         "thirst"
+      ],
+      "ProperTranslation": "After a while they get thirsty.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-150.mp3",
+      "AudioNumber": 150
+   },
+   {
+      "MainText": [
+         "Mark:",
+         "\"Laten",
+         "we",
+         "iets",
+         "te",
+         "drinken",
+         "halen."
+      ],
+      "LiteralTranslation": [
+         "Mark",
+         "let",
+         "we",
+         "something",
+         "to",
+         "drink",
+         "get"
+      ],
+      "ProperTranslation": "Mark: \u201CLet\u2019s get something to drink.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-151.mp3",
+      "AudioNumber": 151
+   },
+   {
+      "MainText": [
+         "Ik",
+         "heb",
+         "erge",
+         "dorst.\u201D"
+      ],
+      "LiteralTranslation": [
+         "I",
+         "have",
+         "bad",
+         "thirst"
+      ],
+      "ProperTranslation": "I\u2019m very thirsty.\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-152.mp3",
+      "AudioNumber": 152
+   },
+   {
+      "MainText": [
+         "Mary:",
+         "\u201CIk",
+         "moet",
+         "naar",
+         "de",
+         "wc."
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "I",
+         "must",
+         "to",
+         "the",
+         "toilet"
+      ],
+      "ProperTranslation": "Mary: \u201CI need to go to the toilet.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-153.mp3",
+      "AudioNumber": 153
+   },
+   {
+      "MainText": [
+         "Ik",
+         "hoop",
+         "dat",
+         "er",
+         "een",
+         "dichtbij",
+         "is\u201D"
+      ],
+      "LiteralTranslation": [
+         "I",
+         "hope",
+         "that",
+         "there",
+         "one",
+         "nearby",
+         "is"
+      ],
+      "ProperTranslation": "I hope there is one nearby.\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-154.mp3",
+      "AudioNumber": 154
+   },
+   {
+      "MainText": [
+         "Paul:",
+         "\u201CKijk!",
+         "Daar",
+         "is",
+         "een",
+         "restaurant."
+      ],
+      "LiteralTranslation": [
+         "Paul",
+         "look",
+         "there",
+         "is",
+         "a",
+         "restaurant"
+      ],
+      "ProperTranslation": "Paul: \u201CLook! There is a restaurant over there.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-155.mp3",
+      "AudioNumber": 155
+   },
+   {
+      "MainText": [
+         "Ik",
+         "weet",
+         "zeker",
+         "dat",
+         "we",
+         "daar",
+         "naar",
+         "de",
+         "wc",
+         "kunnen"
+      ],
+      "LiteralTranslation": [
+         "I",
+         "know",
+         "sure",
+         "that",
+         "we",
+         "there",
+         "to",
+         "the",
+         "toilet",
+         "can"
+      ],
+      "ProperTranslation": "I\u2019m sure we can use the toilet there",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-156.mp3",
+      "AudioNumber": 156
+   },
+   {
+      "MainText": [
+         "en",
+         "iets",
+         "te",
+         "drinken",
+         "kunnen",
+         "kopen."
+      ],
+      "LiteralTranslation": [
+         "and",
+         "something",
+         "to",
+         "drink",
+         "can",
+         "buy"
+      ],
+      "ProperTranslation": "and buy something to drink.\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-157.mp3",
+      "AudioNumber": 157
+   },
+   {
+      "MainText": [
+         "De",
+         "zus",
+         "en",
+         "broers",
+         "rennen",
+         "hard",
+         "naar",
+         "het",
+         "restaurant,"
+      ],
+      "LiteralTranslation": [
+         "the",
+         "sister",
+         "and",
+         "brothers",
+         "run",
+         "hard",
+         "to",
+         "the",
+         "restaurant"
+      ],
+      "ProperTranslation": "The sister and brothers run fast to the restaurant,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-158.mp3",
+      "AudioNumber": 158
+   },
+   {
+      "MainText": [
+         "doen",
+         "de",
+         "deur",
+         "snel",
+         "open",
+         "en",
+         "gaan",
+         "naar",
+         "binnen."
+      ],
+      "LiteralTranslation": [
+         "do",
+         "the",
+         "door",
+         "fast",
+         "open",
+         "and",
+         "go",
+         "to",
+         "inside"
+      ],
+      "ProperTranslation": "open the door quickly and go in.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-159.mp3",
+      "AudioNumber": 159
+   },
+   {
+      "MainText": [
+         "Mary",
+         "geeft",
+         "de",
+         "jongens",
+         "wat",
+         "geld"
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "gives",
+         "the",
+         "boys",
+         "some",
+         "money"
+      ],
+      "ProperTranslation": "Mary gives the boys some money",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-160.mp3",
+      "AudioNumber": 160
+   },
+   {
+      "MainText": [
+         "en",
+         "gaat",
+         "naar",
+         "de",
+         "wc."
+      ],
+      "LiteralTranslation": [
+         "and",
+         "goes",
+         "to",
+         "the",
+         "toilet"
+      ],
+      "ProperTranslation": "and goes to the toilet.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-161.mp3",
+      "AudioNumber": 161
+   },
+   {
+      "MainText": [
+         "De",
+         "jongens",
+         "kopen",
+         "twee",
+         "flessen",
+         "vruchtensap"
+      ],
+      "LiteralTranslation": [
+         "the",
+         "boys",
+         "buy",
+         "two",
+         "bottles",
+         "fruit juice"
+      ],
+      "ProperTranslation": "The boys buy two bottles of fruit juice",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-162.mp3",
+      "AudioNumber": 162
+   },
+   {
+      "MainText": [
+         "en",
+         "nemen",
+         "drie",
+         "glazen"
+      ],
+      "LiteralTranslation": [
+         "and",
+         "take",
+         "three",
+         "glasses"
+      ],
+      "ProperTranslation": "and take three glasses,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-163.mp3",
+      "AudioNumber": 163
+   },
+   {
+      "MainText": [
+         "zodat",
+         "zij",
+         "de",
+         "drankjes",
+         "kunnen",
+         "delen."
+      ],
+      "LiteralTranslation": [
+         "so that",
+         "they",
+         "the",
+         "drinks",
+         "can",
+         "share"
+      ],
+      "ProperTranslation": "so that they can share the drinks.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-164.mp3",
+      "AudioNumber": 164
+   },
+   {
+      "MainText": [
+         "Zij",
+         "gaan",
+         "bij",
+         "een",
+         "groep",
+         "jonge",
+         "toeristen",
+         "uit",
+         "Mexico",
+         "zitten."
+      ],
+      "LiteralTranslation": [
+         "they",
+         "go",
+         "by",
+         "a",
+         "group",
+         "young",
+         "tourists",
+         "uit",
+         "Mexico",
+         "sit"
+      ],
+      "ProperTranslation": "They sit down by a group of young tourists from Mexico.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-165.mp3",
+      "AudioNumber": 165
+   },
+   {
+      "MainText": [
+         "Als",
+         "Mary",
+         "terug",
+         "komt,"
+      ],
+      "LiteralTranslation": [
+         "when",
+         "Mary",
+         "back",
+         "comes"
+      ],
+      "ProperTranslation": "When Mary comes back,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-166.mp3",
+      "AudioNumber": 166
+   },
+   {
+      "MainText": [
+         "begint",
+         "zij",
+         "te",
+         "praten",
+         "met",
+         "een",
+         "Mexicaans",
+         "meisje,",
+         "Marcela,"
+      ],
+      "LiteralTranslation": [
+         "begins",
+         "she",
+         "to",
+         "talk",
+         "with",
+         "a",
+         "Mexican",
+         "girl",
+         "Marcela"
+      ],
+      "ProperTranslation": "she starts talking to a Mexican girl, Marcela,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-167.mp3",
+      "AudioNumber": 167
+   },
+   {
+      "MainText": [
+         "die",
+         "naast",
+         "haar",
+         "zit."
+      ],
+      "LiteralTranslation": [
+         "who",
+         "beside",
+         "her",
+         "sit"
+      ],
+      "ProperTranslation": "who is sitting next to her",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-168.mp3",
+      "AudioNumber": 168
+   },
+   {
+      "MainText": [
+         "Mary:",
+         "\u201CHallo,",
+         "hoe",
+         "gaat",
+         "het?\u201D"
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "hello",
+         "how",
+         "goes",
+         "it"
+      ],
+      "ProperTranslation": "Mary: \u201CHi, how are you?",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-169.mp3",
+      "AudioNumber": 169
+   },
+   {
+      "MainText": [
+         "Vind",
+         "je",
+         "het",
+         "leuk",
+         "hier?\u201D"
+      ],
+      "LiteralTranslation": [
+         "find",
+         "you",
+         "it",
+         "amusing",
+         "here"
+      ],
+      "ProperTranslation": "Are you enjoying yourself here?\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-170.mp3",
+      "AudioNumber": 170
+   },
+   {
+      "MainText": [
+         "Marcela:",
+         "\u201CIk",
+         "begrijp",
+         "het",
+         "niet."
+      ],
+      "LiteralTranslation": [
+         "Marcela",
+         "I",
+         "understand",
+         "it",
+         "not"
+      ],
+      "ProperTranslation": "Marcela: \u201CI don\u2019t understand.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-171.mp3",
+      "AudioNumber": 171
+   },
+   {
+      "MainText": [
+         "Kun",
+         "je",
+         "dat",
+         "langzaam",
+         "herhalen",
+         "alsjeblieft?\u201D"
+      ],
+      "LiteralTranslation": [
+         "can",
+         "you",
+         "that",
+         "slowly",
+         "repeat",
+         "please"
+      ],
+      "ProperTranslation": "Would you repeat that slowly, please?\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-172.mp3",
+      "AudioNumber": 172
+   },
+   {
+      "MainText": [
+         "Mary",
+         "(langzaam",
+         "sprekend):",
+         "\u201COh,",
+         "sorry.\u201D"
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "slowly",
+         "speaking",
+         "oh",
+         "sorry"
+      ],
+      "ProperTranslation": "Mary (speaking slowly): \u201COh, I\u2019m sorry.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-173.mp3",
+      "AudioNumber": 173
+   },
+   {
+      "MainText": [
+         "Vind",
+         "je",
+         "het",
+         "leuk",
+         "hier?\u201D"
+      ],
+      "LiteralTranslation": [
+         "find",
+         "you",
+         "it",
+         "amusing",
+         "here"
+      ],
+      "ProperTranslation": "Are you enjoying yourself here?\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-174.mp3",
+      "AudioNumber": 174
+   },
+   {
+      "MainText": [
+         "Marcela:",
+         "\u201CJa,",
+         "ik",
+         "ben",
+         "blij",
+         "om",
+         "hier",
+         "te",
+         "zijn."
+      ],
+      "LiteralTranslation": [
+         "Marcela",
+         "yes",
+         "I",
+         "am",
+         "glad",
+         "to",
+         "here",
+         "to",
+         "be"
+      ],
+      "ProperTranslation": "Marcela: \u201CYes, I am happy to be here.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-175.mp3",
+      "AudioNumber": 175
+   },
+   {
+      "MainText": [
+         "Ik",
+         "vind",
+         "Hawa\u00EF",
+         "heel",
+         "leuk."
+      ],
+      "LiteralTranslation": [
+         "I",
+         "find",
+         "Hawaii",
+         "very",
+         "amusing"
+      ],
+      "ProperTranslation": "I like Hawaii very much.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-176.mp3",
+      "AudioNumber": 176
+   },
+   {
+      "MainText": [
+         "Ik",
+         "houd",
+         "van",
+         "het",
+         "mooie",
+         "weer.\u201D"
+      ],
+      "LiteralTranslation": [
+         "I",
+         "love",
+         "from",
+         "the",
+         "beautiful",
+         "weather"
+      ],
+      "ProperTranslation": "I like the nice weather.\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-177.mp3",
+      "AudioNumber": 177
+   },
+   {
+      "MainText": [
+         "Mary:",
+         "\u201CJullie",
+         "zijn",
+         "een",
+         "grote",
+         "groep."
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "you",
+         "are",
+         "a",
+         "big",
+         "group"
+      ],
+      "ProperTranslation": "Mary: \u201CYou are a big group.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-178.mp3",
+      "AudioNumber": 178
+   },
+   {
+      "MainText": [
+         "Waar",
+         "komen",
+         "jullie",
+         "vandaan?\u201D"
+      ],
+      "LiteralTranslation": [
+         "where",
+         "come",
+         "you",
+         "from"
+      ],
+      "ProperTranslation": "Where do you come from?\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-179.mp3",
+      "AudioNumber": 179
+   },
+   {
+      "MainText": [
+         "Marcela:",
+         "\u201CWe",
+         "zijn",
+         "een",
+         "schoolklas",
+         "uit",
+         "Mexico."
+      ],
+      "LiteralTranslation": [
+         "Marcela",
+         "we",
+         "are",
+         "a",
+         "school class",
+         "from",
+         "Mexico"
+      ],
+      "ProperTranslation": "Marcela: \u201CWe are a class from a school in Mexico.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-180.mp3",
+      "AudioNumber": 180
+   },
+   {
+      "MainText": [
+         "Het",
+         "schooljaar",
+         "is",
+         "afgelopen,"
+      ],
+      "LiteralTranslation": [
+         "the",
+         "school year",
+         "is",
+         "finished"
+      ],
+      "ProperTranslation": "The school year is finished",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-181.mp3",
+      "AudioNumber": 181
+   },
+   {
+      "MainText": [
+         "en",
+         "nu",
+         "willen",
+         "we",
+         "samen",
+         "plezier",
+         "hebben."
+      ],
+      "LiteralTranslation": [
+         "and",
+         "now",
+         "want",
+         "we",
+         "together",
+         "fun",
+         "have"
+      ],
+      "ProperTranslation": "and now we want to have fun together.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-182.mp3",
+      "AudioNumber": 182
+   },
+   {
+      "MainText": [
+         "We",
+         "gaan",
+         "elk",
+         "jaar",
+         "samen",
+         "op",
+         "reis."
+      ],
+      "LiteralTranslation": [
+         "we",
+         "go",
+         "every",
+         "year",
+         "together",
+         "on",
+         "journey"
+      ],
+      "ProperTranslation": "We go on a trip together every year.\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-183.mp3",
+      "AudioNumber": 183
+   },
+   {
+      "MainText": [
+         "Mary:",
+         "\u201CEcht?",
+         "Zou",
+         "jij",
+         "morgen",
+         "mijn",
+         "gast",
+         "willen",
+         "zijn?"
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "really",
+         "would",
+         "you",
+         "tomorrow",
+         "my",
+         "guest",
+         "want",
+         "be"
+      ],
+      "ProperTranslation": "Mary: \u201CReally? Would you like to be my guest tomorrow?",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-184.mp3",
+      "AudioNumber": 184
+   },
+   {
+      "MainText": [
+         "We",
+         "kunnen",
+         "samen",
+         "wat",
+         "dingen",
+         "doen."
+      ],
+      "LiteralTranslation": [
+         "we",
+         "can",
+         "together",
+         "some",
+         "things",
+         "do"
+      ],
+      "ProperTranslation": "We can do some things together.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-185.mp3",
+      "AudioNumber": 185
+   },
+   {
+      "MainText": [
+         "Misschien",
+         "kunnen",
+         "we",
+         "in",
+         "het",
+         "zwembad",
+         "van",
+         "ons",
+         "hotel",
+         "zwemmen,"
+      ],
+      "LiteralTranslation": [
+         "maybe",
+         "can",
+         "we",
+         "in",
+         "the",
+         "swimming pool",
+         "of",
+         "our",
+         "hotel",
+         "swim"
+      ],
+      "ProperTranslation": "Maybe we can swim in the swimming pool of our hotel,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-186.mp3",
+      "AudioNumber": 186
+   },
+   {
+      "MainText": [
+         "of",
+         "we",
+         "kunnen",
+         "naar",
+         "het",
+         "strand",
+         "gaan.\u201D"
+      ],
+      "LiteralTranslation": [
+         "or",
+         "we",
+         "can",
+         "to",
+         "the",
+         "beach",
+         "go"
+      ],
+      "ProperTranslation": "or we can go to the beach.\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-187.mp3",
+      "AudioNumber": 187
+   },
+   {
+      "MainText": [
+         "Marcela:",
+         "\u201CGeweldig!",
+         "Waar",
+         "zullen",
+         "we",
+         "elkaar",
+         "ontmoeten?\u201D"
+      ],
+      "LiteralTranslation": [
+         "Marcela",
+         "great",
+         "where",
+         "shall",
+         "we",
+         "each other",
+         "meet"
+      ],
+      "ProperTranslation": "Marcela: \u201CWonderful! Where shall we meet?\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-188.mp3",
+      "AudioNumber": 188
+   },
+   {
+      "MainText": [
+         "Mary:",
+         "\u201CLaten",
+         "we",
+         "elkaar",
+         "'s middags",
+         "hier",
+         "in",
+         "ditzelfde",
+         "park",
+         "ontmoeten.\u201D"
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "let",
+         "we",
+         "each other",
+         "in the afternoon",
+         "here",
+         "in",
+         "this same",
+         "park",
+         "meet"
+      ],
+      "ProperTranslation": "Mary: \u201CLet\u2019s meet here in this same park in the afternoon.\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-189.mp3",
+      "AudioNumber": 189
+   },
+   {
+      "MainText": [
+         "Marcela:",
+         "\u201CGaaf!",
+         "Hoe",
+         "laat?\u201D"
+      ],
+      "LiteralTranslation": [
+         "Marcela",
+         "cool",
+         "how",
+         "late"
+      ],
+      "ProperTranslation": "Marcela: \u201CGreat! At what time?\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-190.mp3",
+      "AudioNumber": 190
+   },
+   {
+      "MainText": [
+         "Mary:",
+         "\u201COm",
+         "vier",
+         "uur?\u201D"
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "at",
+         "four",
+         "hour"
+      ],
+      "ProperTranslation": "Mary: \u201CAt four o\u2019clock?\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-191.mp3",
+      "AudioNumber": 191
+   },
+   {
+      "MainText": [
+         "Marcela:",
+         "\u201COk\u00E9.",
+         "Tot",
+         "ziens",
+         "dan!\u201D"
+      ],
+      "LiteralTranslation": [
+         "Marcela",
+         "okay",
+         "till",
+         "see",
+         "then"
+      ],
+      "ProperTranslation": "Marcela: \u201COkay. See you then!\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-192.mp3",
+      "AudioNumber": 192
+   },
+   {
+      "MainText": [
+         "Mary:",
+         "\u201CHet",
+         "was",
+         "leuk",
+         "met",
+         "je",
+         "te",
+         "praten."
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "it",
+         "was",
+         "amusing",
+         "with",
+         "you",
+         "to",
+         "talk"
+      ],
+      "ProperTranslation": "Mary: \u201CIt was nice talking to you.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-193.mp3",
+      "AudioNumber": 193
+   },
+   {
+      "MainText": [
+         "Dag,",
+         "hoor!",
+         "Tot",
+         "morgen!\u201D"
+      ],
+      "LiteralTranslation": [
+         "bye bye",
+         "-",
+         "till",
+         "tomorrow"
+      ],
+      "ProperTranslation": "Bye bye! See you tomorrow!\u201D",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-194.mp3",
+      "AudioNumber": 194
+   }
+]

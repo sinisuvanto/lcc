@@ -1,0 +1,35 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
+
+                {%- if titles_size > 0 -%}
+               
+                    <div class="trigger">
+                        {% assign pages=site.pages | where:"lang", page.lang %}
+                        {% for my_page in pages %}
+                        {% if my_page.title %}
+        
+                    <ul><a style="color: #111;" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></ul>
+                        {% endif %}
+                        {% endfor %}
+        
+                        
+                    </div>
+                </nav>
+                {%- endif -%}
+
+                <div class="social-links">
+                    {%- include social.html -%}
+                </div>
+
+                <p style="text-align: right">&copy; Language Crash Courses</p>
+            </div>
+            </div>
+
+        </div>
+
+    </footer>

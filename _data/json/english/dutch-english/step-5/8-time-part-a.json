@@ -1,0 +1,269 @@
+[
+   {
+      "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+      "5-StepsText": "Back to 5 steps",
+      "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+      "FootPath": "/assets/img/footsteps/foot5.png",
+      "ChapterTitle": "8. Time",
+      "NextPath": "/dir/english/courses/dutch-english/step-5/9-miscellaneous",
+      "NextText": "Next Word List"
+   },
+   {
+      "MainText": [
+         "datum, de"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Date ",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-39.mp3"
+   },
+   {
+      "MainText": [
+         "tijd, de"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Time"
+   },
+   {
+      "MainText": [
+         "Hoe",
+         "laat? /",
+         "Om",
+         "hoe",
+         "laat?"
+      ],
+      "LiteralTranslation": [
+         "how",
+         "late",
+         "at",
+         "how",
+         "late"
+      ],
+      "ProperTranslation": "At what time?"
+   },
+   {
+      "MainText": [
+         "Wanneer?"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "When?"
+   },
+   {
+      "MainText": [
+         "Om",
+         "vier",
+         "uur."
+      ],
+      "LiteralTranslation": [
+         "at",
+         "four",
+         "hour"
+      ],
+      "ProperTranslation": "At four o\u2019clock"
+   },
+   {
+      "MainText": [
+         "Om",
+         "half",
+         "twee."
+      ],
+      "LiteralTranslation": [
+         "at",
+         "half",
+         "two"
+      ],
+      "ProperTranslation": "At half past one."
+   },
+   {
+      "MainText": [
+         "Het ",
+         "is",
+         "kwart",
+         "voor",
+         "drie."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "quarter",
+         "before",
+         "three"
+      ],
+      "ProperTranslation": "It\u2019s a quarter to three.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-40.mp3"
+   },
+   {
+      "MainText": [
+         "Het",
+         "is",
+         "vijf",
+         "voor",
+         "acht."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "five",
+         "before",
+         "eight"
+      ],
+      "ProperTranslation": "It\u2019s five to eight."
+   },
+   {
+      "MainText": [
+         "Het",
+         "is",
+         "tien",
+         "over",
+         "half",
+         "vijf."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "ten",
+         "over",
+         "half",
+         "five"
+      ],
+      "ProperTranslation": "It\u2019s twenty to six."
+   },
+   {
+      "MainText": [
+         "Het",
+         "is",
+         "kwart",
+         "over ",
+         "twee."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "quarter",
+         "over",
+         "two"
+      ],
+      "ProperTranslation": "It\u2019s a quarter past two."
+   },
+   {
+      "MainText": [
+         "Het",
+         "is",
+         "tien",
+         "over",
+         "negen."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "ten",
+         "over",
+         "nine"
+      ],
+      "ProperTranslation": "It\u2019s ten past nine."
+   },
+   {
+      "MainText": [
+         "Het",
+         "is",
+         "vijf",
+         "voor",
+         "half",
+         "twaalf."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "five",
+         "before",
+         "half",
+         "twelve"
+      ],
+      "ProperTranslation": "It\u2019s twenty-five past eleven."
+   },
+   {
+      "MainText": [
+         "nu"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Now",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-41.mp3"
+   },
+   {
+      "MainText": [
+         "dan"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Then"
+   },
+   {
+      "MainText": [
+         "vandaag"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Today"
+   },
+   {
+      "MainText": [
+         "morgen"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Tomorrow"
+   },
+   {
+      "MainText": [
+         "overmorgen"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "The day after tomorrow"
+   },
+   {
+      "MainText": [
+         "over",
+         "drie",
+         "dagen"
+      ],
+      "LiteralTranslation": [
+         "over",
+         "three",
+         "days"
+      ],
+      "ProperTranslation": "In three days"
+   },
+   {
+      "MainText": [
+         "gisteren"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Yesterday"
+   },
+   {
+      "MainText": [
+         "eergisteren"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "The day before yesterday"
+   },
+   {
+      "MainText": [
+         "drie",
+         "dagen",
+         "geleden"
+      ],
+      "LiteralTranslation": [
+         "three",
+         "days",
+         "ago"
+      ],
+      "ProperTranslation": "Three days ago"
+   }
+]

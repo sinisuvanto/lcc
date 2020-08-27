@@ -1,0 +1,46 @@
+[
+  {
+    "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+    "5-StepsText": "Back to 5 Steps",
+    "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+    "FootPath": "/assets/img/footsteps/foot5.png",
+    "ChapterTitle": "7. Numbers",
+    "NextPath": "/dir/english/courses/dutch-english/step-5/8-time",
+    "NextText": "Next Word List"
+  },
+   {
+      "MainText": [
+         "een",
+         "twee",
+         "drie",
+         "vier",
+         "vijf",
+         "zes",
+         "zeven",
+         "acht",
+         "negen",
+         "tien",
+         "vijfentwintig",
+         "vijftig",
+         "honderd",
+         "duizend"
+      ],
+      "LiteralTranslation": [
+         "One ",
+         "Two",
+         "Three",
+         "Four",
+         "Five",
+         "Six",
+         "Seven",
+         "Eight",
+         "Nine",
+         "Ten",
+         "Twenty-five",
+         "Fifty",
+         "Hundred",
+         "Thousand"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-38.mp3"
+   }
+]

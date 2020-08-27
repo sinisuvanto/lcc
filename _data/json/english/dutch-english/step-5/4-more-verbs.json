@@ -1,0 +1,194 @@
+[
+  {
+    "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+    "5-StepsText": "Back to 5 Steps",
+    "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+    "FootPath": "/assets/img/footsteps/foot5.png",
+    "ChapterTitle": "4. More Verbs",
+    "NextPath": "/dir/english/courses/dutch-english/step-5/5-nouns",
+    "NextText": "Next Word List"
+  },
+   {
+      "MainText": [
+         "aankomen / arriveren",
+         "vragen",
+         "beginnen",
+         "kopen",
+         "kunnen",
+         "veranderen / wisselen",
+         "komen",
+         "terugkomen",
+         "kosten",
+         "doen"
+      ],
+      "LiteralTranslation": [
+         "Arrive",
+         "Ask",
+         "Begin / Start",
+         "Buy",
+         "Can",
+         "Change ",
+         "Come",
+         "Come back / Return ",
+         "Cost ",
+         "Do"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-14.mp3"
+   },
+   {
+      "MainText": [
+         "drinken",
+         "eten",
+         "binnengaan",
+         "uitleggen",
+         "vliegen",
+         "vergeten",
+         "krijgen",
+         "uitstappen",
+         "instappen",
+         "geven"
+      ],
+      "LiteralTranslation": [
+         "Drink ",
+         "Eat",
+         "Enter / Go in",
+         "Explain",
+         "Fly ",
+         "Forget",
+         "Get",
+         "Get off ",
+         "Get on",
+         "Give"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-15.mp3"
+   },
+   {
+      "MainText": [
+         "gaan",
+         "teruggaan",
+         "moeten",
+         "helpen",
+         "vertalen",
+         "weten",
+         "leren",
+         "vertrekken",
+         "leuk vinden",
+         "graag willen"
+      ],
+      "LiteralTranslation": [
+         "Go",
+         "Go back",
+         "Have to / Must",
+         "Help ",
+         "Interpret / Translate",
+         "Know",
+         "Learn",
+         "Leave ",
+         "Like ",
+         "Like to"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-16.mp3"
+   },
+   {
+      "MainText": [
+         "luisteren",
+         "wonen",
+         "kijken naar",
+         "zoeken naar",
+         "houden van/liefhebben",
+         "maken",
+         "ontmoeten",
+         "bestellen",
+         "betalen",
+         "ophalen / oppakken"
+      ],
+      "LiteralTranslation": [
+         "Listen",
+         "Live (at some place)",
+         "Look at",
+         "Look for / Seek",
+         "Love ",
+         "Make",
+         "Meet",
+         "Order ",
+         "Pay",
+         "Pick up"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-17.mp3"
+   },
+   {
+      "MainText": [
+         "lezen",
+         "ontvangen",
+         "herhalen",
+         "zeggen",
+         "zien",
+         "verkopen",
+         "boodschappen doen / winkelen",
+         "laten zien",
+         "zitten",
+         "slapen"
+      ],
+      "LiteralTranslation": [
+         "Read",
+         "Receive",
+         "Repeat",
+         "Say",
+         "See",
+         "Sell",
+         "Shop ",
+         "Show ",
+         "Sit",
+         "Sleep"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-18.mp3"
+   },
+   {
+      "MainText": [
+         "spreken",
+         "staan",
+         "studeren",
+         "zwemmen",
+         "nemen",
+         "praten",
+         "vertellen",
+         "denken",
+         "reizen",
+         "proberen"
+      ],
+      "LiteralTranslation": [
+         "Speak",
+         "Stand ",
+         "Study ",
+         "Swim ",
+         "Take",
+         "Talk ",
+         "Tell",
+         "Think",
+         "Travel ",
+         "Try"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-19.mp3"
+   },
+   {
+      "MainText": [
+         "begrijpen",
+         "gebruiken",
+         "wachten",
+         "wakker worden",
+         "lopen",
+         "willen",
+         "wil / willen"
+      ],
+      "LiteralTranslation": [
+         "Understand",
+         "Use ",
+         "Wait",
+         "Wake up",
+         "Walk ",
+         "Want",
+         "Want to"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-20.mp3"
+   }
+]

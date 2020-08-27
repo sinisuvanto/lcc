@@ -1,0 +1,288 @@
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+    }
+
+    td, th {
+        border: 0px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+    }
+
+    table#wfw {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        float: left;
+        border-top: 3px solid #ffffff;
+    }
+
+        table#wfw td, th {
+            border: 0px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+            background-color: #d8ebef;
+        }
+
+        table#wfw td {
+            -webkit-margin-before: 0em !important;
+        }
+
+        table#wfw tr:nth-child(odd) {
+            font-weight: bold;
+        }
+
+    table#t5_2 tr:nth-child(odd) {
+        ;
+    }
+
+    table#t5_4 {
+        ;
+    }
+
+    table#pt {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        table#pt td, th {
+            border: 0px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+    p.pt {
+        margin: 6px 2px 6px 2px;
+        line-height: 2px;
+    }
+
+    p.bodytext {
+        margin: 6px 2px 6px 2px;
+        line-height: 2px;
+        text-align: left;
+    }
+
+    .top-line {
+        width: 100%;
+        max-width: 837px;
+        border-top: 1px darkgray solid;
+    }
+
+    .top-line-fat {
+        width: 100%;
+        max-width: 837px;
+        border-top: 3px darkgray solid;
+    }
+
+    .bottom-line {
+        width: 100%;
+        border-bottom: 1px darkgray solid;
+    }
+
+    .nopadding {
+        padding: 0px;
+        !important;
+    }
+
+    @media only screen and (max-width: 500px) {
+        body {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+    }
+
+    @media only screen and (min-width: 601px) {
+        body {
+            margin-left: 100px;
+            margin-right: 100px;
+        }
+    }
+
+    u {
+        text-decoration: underline;
+    }
+
+    tr:nth-child(2n+0) {
+        background-color: #d8ebef;
+    }
+
+    .center {
+        text-align: center
+    }
+
+    div.fixedRedirect {
+        position: fixed;
+        left: 0%;
+        bottom: 0%;
+        background-color: #d8ebef;
+        z-index: 100;
+    }
+
+    div.relativeRedirect {
+        position: relative;
+        left: 45%;
+        bottom: 10%;
+        background-color: #d8ebef;
+        display: inline-block;
+    }
+
+    audio {
+        width: 50px;
+        height: 30px;
+    }
+
+    .text-align-left {
+        text-align: left;
+    }
+
+    .titlepicture {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 110px;
+        width: 130px;
+    }
+
+    #images {
+        text-align: center;
+    }
+</style>
+
+<div class="main">
+    <table id="wrapper" align="center">
+        <tr>
+            <td>
+
+                {% for instructions in {{include.path}}[include.file1] limit:1%}
+                <div id="images">
+                    <img class="titlepicture" border="0" alt="Flag" src="{{site.baseurl}}{{instructions.FlagPath}}" />
+                    <img class="titlepicture" border="0" alt="Foot" src="{{site.baseurl}}{{instructions.FootPath}}" />
+                </div>
+                <h2 class="center">{{instructions.ChapterTitle}}</h2>
+                <p class="left">{{instructions.InstructionSentence}}</p>
+                {% endfor %}
+
+                <table id="wrapper" align="center">
+                    <tr>
+                        <td>
+                            {% for steps in {{include.path}}[include.file1] limit:1%}
+                            <div class="fixedRedirect">
+                                <a href="{{site.url}}{{steps.5-StepsPath}}">{{steps.5-StepsText}}</a>
+                            </div>
+                            {% endfor %}
+
+                            {% assign var = 0 %}
+                            {% assign audioVar = 0 %}
+                            {% for object in {{include.path}}[include.file1] offset:1%}
+
+                            {% if object.AudioPath == null %}
+                            <table width="100%">
+                                <tr>
+                                    <td class="nopadding">
+                                        <div class="top-line">&nbsp;</div>
+                                    </td>
+                                </tr>
+                            </table>
+                            {% else %}
+                            <table width="100%">
+                                <tr>
+                                    <td class="nopadding">
+                                        <div class="top-line-fat">&nbsp;</div>
+                                    </td>
+                                </tr>
+                            </table>
+                            {% endif %}
+                            <table align="left" width="90%" id="wfw-sentence" border="0" style="max-width:800px !important;">
+                                <tr>
+                                    <td>
+                                        {% for translations in object.MainText %}
+                                        <table align="left" id="wfw">
+                                            <tr>
+                                                <td>  <p class="bodytext">{{object.MainText[var]}}</p></td>
+                                            </tr>
+                                            <tr>
+                                                <td>  <p class="bodytext">{{object.LiteralTranslation[var]}}</p></td>
+                                            </tr>
+                                        </table>
+                                        {% assign var = var | plus:1 %}
+                                        {% endfor %}
+                                        <table width="100%" id="pt">
+                                            <tr>
+                                                <td style="text-align:left">{{object.ProperTranslation}}</td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            {% if object.AudioPath != null %}
+
+                            <table align="left" width="10%" style="display:inline-block;">
+                                <tr>
+                                    <td height="60">
+                                        <audio controls style="width:50px;"><source src="{{object.AudioPath}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
+
+                                    </td>
+                                </tr>
+                            </table>
+                            {% endif %}
+                            {% assign var = 0 %}
+                            {% assign audioVar = 0 %}
+                            {% endfor %}
+                        </td>
+                    </tr>
+                </table>
+
+
+                <table align="left" width="100%" id="t5_2" style="max-width:800px !important;">
+                    <tr>
+                        <td colspan="3">
+                            <div style="height: 3px; background-color: darkgrey; margin: 3px 0 3px 0;">
+                            </div>
+                        </td>
+                    </tr>
+                    {% assign var = 0 %}
+                    {% for object in {{include.path}}[include.file2] offset:1%}
+                    {% for translations in object.MainText %}
+                    <tr>
+
+                        <td class="text-align-left">
+                            {{object.MainText[var]}}
+                        </td>
+                        <td class="text-align-left">
+                            {{object.LiteralTranslation[var]}}
+                        </td>
+
+                        {% if var == 0 %}
+                        <td height="20" bgcolor="white">
+                            <audio controls>
+                                <source src="{{object.AudioPath}}" type="audio/mpeg">
+                                Your browser does not support the audio tag.
+                            </audio>
+                        </td>
+                        {% endif %}
+
+                    </tr>
+                    {% assign var = var | plus:1 %}
+                    {% endfor %}
+                    {% assign var = 0 %}
+                    <tr>
+                        <td colspan="3" bgcolor="white">
+                            <div style="height: 3px; background-color: darkgrey; margin: 3px 0 3px 0;">
+                            </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!-- end of center-aligned wrapper -->
+</div>
+{% for next in {{include.path}}[include.file1] limit:1%}
+<div class="relativeRedirect">
+    <a href="{{site.url}}{{next.NextPath}}">{{next.NextText}}</a>
+</div>
+{% endfor %}

@@ -1,0 +1,17 @@
+AUDIO PATH REPLACE FILES
+
+http://www.languagecrashcourses.com/wp-content/uploads/dutch-audios/step-1/dutch-1-audio-1.mp3
+
+TO:
+
+http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-1.mp3
+
+
+
+Changes (replace all):
+
+wp-content/uploads
+
+TO:
+
+media/audio

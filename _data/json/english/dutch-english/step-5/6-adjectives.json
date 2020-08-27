@@ -1,0 +1,144 @@
+[
+  {
+    "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+    "5-StepsText": "Back to 5 Steps",
+    "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+    "FootPath": "/assets/img/footsteps/foot5.png",
+    "ChapterTitle": "6. Adjectives",
+    "NextPath": "/dir/english/courses/dutch-english/step-5/7-numbers",
+    "NextText": "Next Word List"
+  },
+   {
+      "MainText": [
+         "een paar",
+         "allen/alles",
+         "alleen",
+         "slecht",
+         "mooi",
+         "groot",
+         "druk",
+         "goedkoop",
+         "koud",
+         "heerlijk / lekker"
+      ],
+      "LiteralTranslation": [
+         "A few",
+         "All",
+         "Alone",
+         "Bad",
+         "Beautiful",
+         "Big / Large",
+         "Busy",
+         "Cheap",
+         "Cold",
+         "Delicious"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-33.mp3"
+   },
+   {
+      "MainText": [
+         "anders / verschillend",
+         "moeilijk",
+         "makkelijk",
+         "engels",
+         "genoeg",
+         "ieder / elk / alle",
+         "duur",
+         "ver",
+         "snel / vlug",
+         "eerst"
+      ],
+      "LiteralTranslation": [
+         "Different",
+         "Difficult",
+         "Easy",
+         "English",
+         "Enough",
+         "Every / Each / All",
+         "Expensive",
+         "Far",
+         "Fast",
+         "First"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-34.mp3"
+   },
+   {
+      "MainText": [
+         "goed",
+         "gelukkig",
+         "heet",
+         "hongerig",
+         "ziek",
+         "belangrijk",
+         "interessant",
+         "laatste",
+         "links",
+         "klein"
+      ],
+      "LiteralTranslation": [
+         "Good",
+         "Happy",
+         "Hot",
+         "Hungry",
+         "Ill ",
+         "Important",
+         "Interesting",
+         "Last (not first)",
+         "Left (not right)",
+         "Little / Small"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-35.mp3"
+   },
+   {
+      "MainText": [
+         "lang",
+         "veel",
+         "dichtbij",
+         "nieuw",
+         "fijn / leuk / mooi",
+         "oud",
+         "alleen / maar",
+         "open",
+         "stil / rustig",
+         "klaar"
+      ],
+      "LiteralTranslation": [
+         "Long",
+         "Many",
+         "Near / Close",
+         "New",
+         "Nice",
+         "Old",
+         "Only",
+         "Open",
+         "Quiet",
+         "Ready"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-36.mp3"
+   },
+   {
+      "MainText": [
+         "rechts",
+         "goed / correct",
+         "kort",
+         "langzaam",
+         "wat",
+         "dorstig",
+         "moe",
+         "warm",
+         "verkeerd / fout"
+      ],
+      "LiteralTranslation": [
+         "Right (not left)",
+         "Right (not wrong)",
+         "Short",
+         "Slow",
+         "Some",
+         "Thirsty",
+         "Tired",
+         "Warm",
+         "Wrong"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-37.mp3"
+   }
+]

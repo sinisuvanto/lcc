@@ -1,0 +1,641 @@
+[
+   {
+      "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+      "5-StepsText": "Back to 5 Steps",
+      "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+      "FootPath": "/assets/img/footsteps/foot5.png",
+      "ChapterTitle": "1. Phrases",
+      "InstructionSentence": "Learn the vocabulary lists (about 350 words/phrases). Listen to the audio recordings and repeat after the native speaker.",
+      "NextPath": "/dir/english/courses/dutch-english/step-5/2-personal-pronouns",
+      "NextText": "Next Word List"
+   },
+   {
+      "MainText": [
+         "Hallo."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Hello.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-1.mp3"
+   },
+   {
+      "MainText": [
+         "Hoe ",
+         "gaat",
+         " het",
+         "met",
+         "  je/u (formal)?"
+      ],
+      "LiteralTranslation": [
+         "how",
+         "goes",
+         "it",
+         "with",
+         "you"
+      ],
+      "ProperTranslation": "How are you?                     "
+   },
+   {
+      "MainText": [
+         "Goed",
+         "hoor,",
+         "dank",
+         "je."
+      ],
+      "LiteralTranslation": [
+         "good",
+         " -",
+         "thank",
+         "you"
+      ],
+      "ProperTranslation": "Fine, thanks."
+   },
+   {
+      "MainText": [
+         "En",
+         "jij/u?"
+      ],
+      "LiteralTranslation": [
+         "and",
+         "you"
+      ],
+      "ProperTranslation": "And you?"
+   },
+   {
+      "MainText": [
+         "Leuk",
+         "je/u",
+         "te",
+         "ontmoeten."
+      ],
+      "LiteralTranslation": [
+         "nice",
+         "you",
+         "to",
+         "meet"
+      ],
+      "ProperTranslation": "Nice to meet you."
+   },
+   {
+      "MainText": [
+         "Hoe ",
+         "heet",
+         "je/u?"
+      ],
+      "LiteralTranslation": [
+         "how",
+         "named",
+         "you"
+      ],
+      "ProperTranslation": "What\u2019s your name?",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-2.mp3"
+   },
+   {
+      "MainText": [
+         "Wie",
+         "ben",
+         "je? /",
+         "Wie",
+         "bent",
+         "u?"
+      ],
+      "LiteralTranslation": [
+         "who",
+         "are",
+         "you",
+         "who",
+         "are",
+         "you"
+      ],
+      "ProperTranslation": "Who are you?"
+   },
+   {
+      "MainText": [
+         "Ben",
+         "jij\u2026? /",
+         "Bent",
+         "u\u2026?"
+      ],
+      "LiteralTranslation": [
+         "are",
+         "you",
+         "are",
+         "you"
+      ],
+      "ProperTranslation": "Are you \u2026?"
+   },
+   {
+      "MainText": [
+         "Ik",
+         "ben\u2026"
+      ],
+      "LiteralTranslation": [
+         "I",
+         "am"
+      ],
+      "ProperTranslation": "I am \u2026."
+   },
+   {
+      "MainText": [
+         "Goedemorgen."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Good morning.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-3.mp3"
+   },
+   {
+      "MainText": [
+         "Goedenmiddag."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Good afternoon."
+   },
+   {
+      "MainText": [
+         "Goedenavond."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Good evening."
+   },
+   {
+      "MainText": [
+         "Goede",
+         "nacht. /",
+         "Welterusten."
+      ],
+      "LiteralTranslation": [
+         "good",
+         "night",
+         "well to rest"
+      ],
+      "ProperTranslation": "Good night"
+   },
+   {
+      "MainText": [
+         "Fijne",
+         "  dag."
+      ],
+      "LiteralTranslation": [
+         "nice",
+         "day"
+      ],
+      "ProperTranslation": "Have a nice day.     ",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-4.mp3"
+   },
+   {
+      "MainText": [
+         "Veel",
+         "plezier."
+      ],
+      "LiteralTranslation": [
+         "much",
+         "fun"
+      ],
+      "ProperTranslation": "Have fun."
+   },
+   {
+      "MainText": [
+         "Tot",
+         "ziens. /",
+         "Dag."
+      ],
+      "LiteralTranslation": [
+         "till",
+         "seeing",
+         "bye"
+      ],
+      "ProperTranslation": "Good bye."
+   },
+   {
+      "MainText": [
+         "Tot",
+         "ziens."
+      ],
+      "LiteralTranslation": [
+         "till",
+         "seeing"
+      ],
+      "ProperTranslation": "See you."
+   },
+   {
+      "MainText": [
+         "Spreek",
+         "je \u2026? /",
+         "Spreekt",
+         "u \u2026?"
+      ],
+      "LiteralTranslation": [
+         "speak",
+         "you",
+         "speak",
+         "you"
+      ],
+      "ProperTranslation": "Do you speak \u2026?",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-5.mp3"
+   },
+   {
+      "MainText": [
+         "Ja,",
+         "ik",
+         "spreek \u2026"
+      ],
+      "LiteralTranslation": [
+         "yes",
+         "I",
+         "speak"
+      ],
+      "ProperTranslation": "Yes, I speak ..."
+   },
+   {
+      "MainText": [
+         "Nee,",
+         "ik",
+         "spreek",
+         "geen \u2026"
+      ],
+      "LiteralTranslation": [
+         "no",
+         "I",
+         "speak",
+         "no"
+      ],
+      "ProperTranslation": "No, I don\u2019t speak \u2026"
+   },
+   {
+      "MainText": [
+         "Ik",
+         "begrijp",
+         "het",
+         "niet."
+      ],
+      "LiteralTranslation": [
+         "I",
+         "understand",
+         "it",
+         "not"
+      ],
+      "ProperTranslation": "I don\u2019t understand."
+   },
+   {
+      "MainText": [
+         "Alstublieft."
+      ],
+      "LiteralTranslation": [
+         "if you please"
+      ],
+      "ProperTranslation": "Please.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-6.mp3"
+   },
+   {
+      "MainText": [
+         "Bedankt."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Thanks./Thank you."
+   },
+   {
+      "MainText": [
+         "Graag",
+         "gedaan."
+      ],
+      "LiteralTranslation": [
+         "gladly",
+         "done"
+      ],
+      "ProperTranslation": "You\u2019re welcome."
+   },
+   {
+      "MainText": [
+         "Nee,",
+         "dank",
+         "je/u."
+      ],
+      "LiteralTranslation": [
+         "no",
+         "thank",
+         "you"
+      ],
+      "ProperTranslation": "No, thank you."
+   },
+   {
+      "MainText": [
+         "Excuseer",
+         "mij. /",
+         "Pardon."
+      ],
+      "LiteralTranslation": [
+         "excuse",
+         "me",
+         " I beg your pardon"
+      ],
+      "ProperTranslation": "Excuse me."
+   },
+   {
+      "MainText": [
+         "Het",
+         "spijt",
+         "me. /",
+         "Sorry."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "regrets",
+         "me",
+         "sorry"
+      ],
+      "ProperTranslation": "I\u2019m sorry."
+   },
+   {
+      "MainText": [
+         "Het",
+         "geeft",
+         "niet."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "matters",
+         "not"
+      ],
+      "ProperTranslation": "No problem./It\u2019s okay."
+   },
+   {
+      "MainText": [
+         "Prima. /",
+         "ok\u00E9"
+      ],
+      "LiteralTranslation": [
+         "fine",
+         "okay"
+      ],
+      "ProperTranslation": "All right./Okay.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-7.mp3"
+   },
+   {
+      "MainText": [
+         "Geweldig!"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Great!"
+   },
+   {
+      "MainText": [
+         "Welkom."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Welcome."
+   },
+   {
+      "MainText": [
+         "Het",
+         "is",
+         "jammer."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "too bad"
+      ],
+      "ProperTranslation": "It\u2019s a pity. (UK)/It\u2019s too bad. (US)"
+   },
+   {
+      "MainText": [
+         "Een",
+         "ogenblik",
+         "alstublieft. /",
+         "Momentje."
+      ],
+      "LiteralTranslation": [
+         "a",
+         "moment",
+         "please",
+         "a moment"
+      ],
+      "ProperTranslation": "One moment, please."
+   },
+   {
+      "MainText": [
+         "Kunt",
+         "u",
+         "mij",
+         "alstublieft",
+         "helpen?"
+      ],
+      "LiteralTranslation": [
+         "can",
+         "you",
+         "me",
+         "please",
+         "help"
+      ],
+      "ProperTranslation": "Could you help me, please?"
+   },
+   {
+      "MainText": [
+         "Laten",
+         "wij",
+         "gaan."
+      ],
+      "LiteralTranslation": [
+         "let",
+         "we",
+         "go"
+      ],
+      "ProperTranslation": "Let\u2019s go."
+   },
+   {
+      "MainText": [
+         "Natuurlijk."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Of course./Sure"
+   },
+   {
+      "MainText": [
+         "Niet",
+         "doen!"
+      ],
+      "LiteralTranslation": [
+         "not",
+         "do"
+      ],
+      "ProperTranslation": "Don\u2019t!"
+   },
+   {
+      "MainText": [
+         "Nee."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "No."
+   },
+   {
+      "MainText": [
+         "Ja."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Yes."
+   },
+   {
+      "MainText": [
+         "Hoe",
+         "veel?"
+      ],
+      "LiteralTranslation": [
+         "how",
+         "much"
+      ],
+      "ProperTranslation": "How much?",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-8.mp3"
+   },
+   {
+      "MainText": [
+         "Hoe?"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "How?"
+   },
+   {
+      "MainText": [
+         "Wat?"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "What?"
+   },
+   {
+      "MainText": [
+         "Wat",
+         "is",
+         "dat?"
+      ],
+      "LiteralTranslation": [
+         "what",
+         "is",
+         "that"
+      ],
+      "ProperTranslation": "What is that?"
+   },
+   {
+      "MainText": [
+         "Welke?"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Which?"
+   },
+   {
+      "MainText": [
+         "Wie?"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Who?"
+   },
+   {
+      "MainText": [
+         "Van",
+         "wie?"
+      ],
+      "LiteralTranslation": [
+         "from",
+         "who"
+      ],
+      "ProperTranslation": "Whose?"
+   },
+   {
+      "MainText": [
+         "Waar?"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Where?"
+   },
+   {
+      "MainText": [
+         "Waar \u2026",
+         "vandaan?"
+      ],
+      "LiteralTranslation": [
+         "where",
+         "from"
+      ],
+      "ProperTranslation": "Where \u2026 from?"
+   },
+   {
+      "MainText": [
+         "Waar",
+         "naartoe?"
+      ],
+      "LiteralTranslation": [
+         "where",
+         "toward"
+      ],
+      "ProperTranslation": "Where to?"
+   },
+   {
+      "MainText": [
+         "Waarom?"
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Why?"
+   },
+   {
+      "MainText": [
+         "Hier."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Here.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-9.mp3"
+   },
+   {
+      "MainText": [
+         "Daar."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "There."
+   },
+   {
+      "MainText": [
+         "Dit./Deze."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "This."
+   },
+   {
+      "MainText": [
+         "Die./Dat."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "That."
+   },
+   {
+      "MainText": [
+         "Deze."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "These."
+   },
+   {
+      "MainText": [
+         "Die."
+      ],
+      "LiteralTranslation": [
+      ],
+      "ProperTranslation": "Those."
+   }
+]

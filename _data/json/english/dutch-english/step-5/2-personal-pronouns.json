@@ -1,0 +1,55 @@
+[
+  {
+    "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+    "5-StepsText": "Back to 5 Steps",
+    "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+    "FootPath": "/assets/img/footsteps/foot5.png",
+    "ChapterTitle": "2. Personal Pronouns",
+    "NextPath": "/dir/english/courses/dutch-english/step-5/3-two-important-verbs",
+    "NextText": "Next Word List"
+  },
+   {
+      "MainText": [
+         "ik",
+         "jij",
+         "hij",
+         "zij ",
+         "het",
+         "wij",
+         "jullie",
+         "zij"
+      ],
+      "LiteralTranslation": [
+         "I",
+         "You (sing.)",
+         "He",
+         "She",
+         "It",
+         "We ",
+         "You (plural)",
+         "They"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-11.mp3"
+   },
+   {
+      "MainText": [
+         "mijn",
+         "jouw",
+         "zijn",
+         "haar",
+         "ons / onze",
+         "jullie",
+         "hun"
+      ],
+      "LiteralTranslation": [
+         "My",
+         "Your (sing.)",
+         "His",
+         "Her",
+         "Our",
+         "Your (plural)",
+         "Their"
+      ],
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-11.mp3"
+   }
+]

@@ -1,0 +1,772 @@
+[
+   {
+      "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+      "5-StepsText": "Back to 5 steps",
+      "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+      "FootPath": "/assets/img/footsteps/foot1.png",
+      "ChapterTitle": "Chapter 1",
+      "InstructionSentence": "Listen to the story, repeat first each word and then the whole sentence after the native speaker, while following the literal word-for-word translation, and the proper translation.",
+      "NextPath": "/dir/english/courses/dutch-english/step-1/chapter-2",
+      "NextText": "Next Chapter"
+   },
+   {
+      "MainText": [
+         "De",
+         "Johnsons'",
+         "Droom",
+         "Vakantie"
+      ],
+      "LiteralTranslation": [
+         "the",
+         "Johnsons'",
+         "dream",
+         "holiday"
+      ],
+      "ProperTranslation": "The Johnsons' Dream Holiday",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-1-example.mp3",
+      "AudioNumber": "1-example",
+      "AudioPath2": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-1.mp3",
+      "AudioNumber2": 1
+   },
+   {
+      "MainText": [
+         "De",
+         "familie",
+         "Johnson",
+         "woont",
+         "in",
+         "Londen,",
+         "Engeland."
+      ],
+      "LiteralTranslation": [
+         "the",
+         "family",
+         "Johnson",
+         "lives",
+         "in",
+         "London",
+         "England"
+      ],
+      "ProperTranslation": "The Johnson family lives in London, England.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-2.mp3",
+      "AudioNumber": 2
+   },
+   {
+      "MainText": [
+         "Peter",
+         "Johnson",
+         "en",
+         "zijn",
+         "vrouw",
+         "Helen",
+         "hebben",
+         "drie",
+         "kinderen."
+      ],
+      "LiteralTranslation": [
+         "Peter",
+         "Johnson",
+         "and",
+         "his",
+         "wife",
+         "Helen",
+         "have",
+         "three",
+         "children"
+      ],
+      "ProperTranslation": "Peter Johnson and his wife, Helen, have three children.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-3..mp3",
+      "AudioNumber": 3
+   },
+   {
+      "MainText": [
+         "Hun",
+         "dochter",
+         "Mary",
+         "is",
+         "zestien",
+         "jaar",
+         "oud."
+      ],
+      "LiteralTranslation": [
+         "their",
+         "daughter",
+         "Mary",
+         "is",
+         "sixteen",
+         "year",
+         "old"
+      ],
+      "ProperTranslation": "Their daughter, Mary, is sixteen years old.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-4.mp3",
+      "AudioNumber": 4
+   },
+   {
+      "MainText": [
+         "Hun",
+         "zonen",
+         "Paul",
+         "en",
+         "Mark",
+         "zijn",
+         "veertien",
+         "en",
+         "twaalf",
+         "jaar",
+         "oud."
+      ],
+      "LiteralTranslation": [
+         "their",
+         "sons",
+         "Paul",
+         "and",
+         "Mark",
+         "are",
+         "fourteen",
+         "and",
+         "twelve",
+         "year",
+         "old"
+      ],
+      "ProperTranslation": "Their sons, Paul and Mark, are fourteen and twelve years old.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-5.mp3",
+      "AudioNumber": 5
+   },
+   {
+      "MainText": [
+         "De",
+         "Johnsons",
+         "zijn",
+         "een",
+         "gelukkig",
+         "gezin."
+      ],
+      "LiteralTranslation": [
+         "the",
+         "Johnsons",
+         "are",
+         "a",
+         "happy",
+         "family"
+      ],
+      "ProperTranslation": "The Johnsons are a happy family.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-6.mp3",
+      "AudioNumber": 6
+   },
+   {
+      "MainText": [
+         "De",
+         "ouders",
+         "houden  van",
+         "hun",
+         "kinderen"
+      ],
+      "LiteralTranslation": [
+         "the",
+         "parents",
+         "love",
+         "their",
+         "children"
+      ],
+      "ProperTranslation": "The parents love their children",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-7.mp3",
+      "AudioNumber": 7
+   },
+   {
+      "MainText": [
+         "en",
+         "de",
+         "kinderen",
+         "zijn",
+         "beste",
+         "vrienden."
+      ],
+      "LiteralTranslation": [
+         "and",
+         "the",
+         "children",
+         "are",
+         "best",
+         "friends"
+      ],
+      "ProperTranslation": "and the children are best friends.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-8.mp3",
+      "AudioNumber": 8
+   },
+   {
+      "MainText": [
+         "Peter",
+         "is",
+         "een",
+         "zakenman"
+      ],
+      "LiteralTranslation": [
+         "Peter",
+         "is",
+         "a",
+         "business man"
+      ],
+      "ProperTranslation": "Peter is a business man",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-9.mp3",
+      "AudioNumber": 9
+   },
+   {
+      "MainText": [
+         "en",
+         "werkt",
+         "in",
+         "een",
+         "groot",
+         "kantoorgebouw."
+      ],
+      "LiteralTranslation": [
+         "and",
+         "works",
+         "in",
+         "a",
+         "big",
+         "office  building"
+      ],
+      "ProperTranslation": "and works in a big office building.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-10.mp3",
+      "AudioNumber": 10
+   },
+   {
+      "MainText": [
+         "Hij",
+         "vindt",
+         "zijn",
+         "baan",
+         "heel",
+         "erg",
+         "leuk."
+      ],
+      "LiteralTranslation": [
+         "he",
+         "finds",
+         "his",
+         "job",
+         "very",
+         "terribly",
+         "amusing"
+      ],
+      "ProperTranslation": "He likes his job very much.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-11.mp3",
+      "AudioNumber": 11
+   },
+   {
+      "MainText": [
+         "Helen",
+         "is",
+         "lerares."
+      ],
+      "LiteralTranslation": [
+         "Helen",
+         "is",
+         "female school teacher"
+      ],
+      "ProperTranslation": "Helen is a school teacher.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-12.mp3",
+      "AudioNumber": 12
+   },
+   {
+      "MainText": [
+         "Mary",
+         "wil",
+         "voor",
+         "verpleegkundige",
+         "studeren,"
+      ],
+      "LiteralTranslation": [
+         "Mary",
+         "wants",
+         "for",
+         "nurse",
+         "study"
+      ],
+      "ProperTranslation": "Mary wants to study to become a nurse,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-13.mp3",
+      "AudioNumber": 13
+   },
+   {
+      "MainText": [
+         "naar",
+         "het",
+         "buitenland",
+         "verhuizen",
+         "en",
+         "trouwen",
+         "met",
+         "een",
+         "buitenlander."
+      ],
+      "LiteralTranslation": [
+         "to",
+         "the",
+         "abroad",
+         "move",
+         "and",
+         "marry",
+         "with",
+         "a",
+         "foreigner"
+      ],
+      "ProperTranslation": "move abroad and marry a foreigner.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-14.mp3",
+      "AudioNumber": 14
+   },
+   {
+      "MainText": [
+         "Paul",
+         "wil",
+         "ingenieur",
+         "worden."
+      ],
+      "LiteralTranslation": [
+         "Paul",
+         "wants",
+         "engineer",
+         "become"
+      ],
+      "ProperTranslation": "Paul wants to become an engineer.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-15.mp3",
+      "AudioNumber": 15
+   },
+   {
+      "MainText": [
+         "Mark",
+         "weet",
+         "nog",
+         "niet",
+         "wat",
+         "hij",
+         "later",
+         "wil",
+         "studeren."
+      ],
+      "LiteralTranslation": [
+         "Mark",
+         "knows",
+         "still",
+         "not",
+         "what",
+         "he",
+         "later",
+         "wants",
+         "study"
+      ],
+      "ProperTranslation": "Mark doesn\u2019t know yet what he wants to study later.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-16.mp3",
+      "AudioNumber": 16
+   },
+   {
+      "MainText": [
+         "Het",
+         "gezin",
+         "heeft",
+         "het",
+         "gewoonlijk",
+         "druk",
+         "met",
+         "hun",
+         "banen",
+         "en",
+         "hun",
+         "schoolwerk."
+      ],
+      "LiteralTranslation": [
+         "the",
+         "family",
+         "has",
+         "it",
+         "usually",
+         "busy",
+         "with",
+         "their",
+         "jobs",
+         "and",
+         "their",
+         "school work"
+      ],
+      "ProperTranslation": "The family is usually busy with their jobs and their school work.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-17.mp3",
+      "AudioNumber": 17
+   },
+   {
+      "MainText": [
+         "Peter",
+         "en",
+         "Helen",
+         "gaan",
+         "niet",
+         "naar",
+         "hun",
+         "werk",
+         "vandaag"
+      ],
+      "LiteralTranslation": [
+         "Peter",
+         "and",
+         "Helen",
+         "go",
+         "not",
+         "to",
+         "their",
+         "work",
+         "today"
+      ],
+      "ProperTranslation": "Peter and Helen aren\u2019t going to work today",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-18.mp3",
+      "AudioNumber": 18
+   },
+   {
+      "MainText": [
+         "en",
+         "de",
+         "kinderen",
+         "gaan",
+         "niet",
+         "naar",
+         "school"
+      ],
+      "LiteralTranslation": [
+         "and",
+         "the",
+         "children",
+         "go",
+         "not",
+         "to",
+         "school"
+      ],
+      "ProperTranslation": "and the children aren\u2019t going to school,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-19.mp3",
+      "AudioNumber": 19
+   },
+   {
+      "MainText": [
+         "omdat",
+         "het",
+         "Kerstvakantie",
+         "is."
+      ],
+      "LiteralTranslation": [
+         "because",
+         "it",
+         "Christmas  holiday",
+         "is"
+      ],
+      "ProperTranslation": "because it\u2019s the Christmas holiday.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-20.mp3",
+      "AudioNumber": 20
+   },
+   {
+      "MainText": [
+         "Het",
+         "is",
+         "belangrijk",
+         "voor",
+         "hen",
+         "om",
+         "veel",
+         "tijd",
+         "samen",
+         "<u>door</u>",
+         "te",
+         "<u>brengen.</u>"
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "important",
+         "for",
+         "them",
+         "to",
+         "much",
+         "time",
+         "together",
+         " - ",
+         "to",
+         "<u>spend</u>"
+      ],
+      "ProperTranslation": "It\u2019s important for them to spend a lot of time together.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-21.mp3",
+      "AudioNumber": 21
+   },
+   {
+      "MainText": [
+         "Het",
+         "is",
+         "een",
+         "hele",
+         "koude",
+         "winter",
+         "in",
+         "Engeland",
+         "dit",
+         "jaar."
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is",
+         "a",
+         "very",
+         "cold",
+         "winter",
+         "in",
+         "England",
+         "this",
+         "year"
+      ],
+      "ProperTranslation": "It\u2019s a very cold winter in England this year.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-22.mp3",
+      "AudioNumber": 22
+   },
+   {
+      "MainText": [
+         "De",
+         "familie",
+         "Johnson",
+         "wil",
+         "op",
+         "reis",
+         "naar",
+         "een",
+         "warme",
+         "plek,"
+      ],
+      "LiteralTranslation": [
+         "the",
+         "family",
+         "Johnson",
+         "wants",
+         "on",
+         "journey",
+         "to",
+         "a",
+         "warm",
+         "spot"
+      ],
+      "ProperTranslation": "The Johnson family wants to travel to somewhere warm.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-23.mp3",
+      "AudioNumber": 23
+   },
+   {
+      "MainText": [
+         "Daarom",
+         "gaan",
+         "zij",
+         "voor",
+         "twee",
+         "weken",
+         "naar",
+         "Hawa\u00EF,"
+      ],
+      "LiteralTranslation": [
+         "therefore",
+         "go",
+         "they",
+         "for",
+         "two",
+         "weeks",
+         "to",
+         "Hawaii"
+      ],
+      "ProperTranslation": "so they will go to Hawaii for two weeks,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-24.mp3",
+      "AudioNumber": 24
+   },
+   {
+      "MainText": [
+         "want",
+         "in",
+         "Hawa\u00EF",
+         "is",
+         "het",
+         "altijd",
+         "zomer"
+      ],
+      "LiteralTranslation": [
+         "because",
+         "in",
+         "Hawaii",
+         "is",
+         "it",
+         "always",
+         "summer"
+      ],
+      "ProperTranslation": "because in Hawaii it\u2019s always summer.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-25.mp3",
+      "AudioNumber": 25
+   },
+   {
+      "MainText": [
+         "Voordat",
+         "zij",
+         "vertrekken,",
+         "<u>nodigen</u>",
+         "zij",
+         "hun",
+         "buren",
+         "<u>uit</u>",
+         "op",
+         "de",
+         "koffie."
+      ],
+      "LiteralTranslation": [
+         "before  that",
+         "they",
+         "depart",
+         "<u>invite</u>",
+         "they",
+         "their",
+         "neighbors",
+         "-",
+         "on",
+         "the",
+         "coffee"
+      ],
+      "ProperTranslation": "Before they leave they invite their neighbors over for coffee.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-26.mp3",
+      "AudioNumber": 26
+   },
+   {
+      "MainText": [
+         "De",
+         "buren",
+         "komen",
+         "op",
+         "de",
+         "koffie,"
+      ],
+      "LiteralTranslation": [
+         "the",
+         "neighbors",
+         "come",
+         "on",
+         "the",
+         "coffee"
+      ],
+      "ProperTranslation": "The neighbors come over for coffee",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-27.mp3",
+      "AudioNumber": 27
+   },
+   {
+      "MainText": [
+         "en",
+         "zij",
+         "komen",
+         "ook",
+         "hun",
+         "hond",
+         "Mickey",
+         "halen"
+      ],
+      "LiteralTranslation": [
+         "and",
+         "they",
+         "come",
+         "also",
+         "their",
+         "dog",
+         "Mickey",
+         "fetch"
+      ],
+      "ProperTranslation": "and they also come to take their dog, Mickey,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-28.mp3",
+      "AudioNumber": 28
+   },
+   {
+      "MainText": [
+         "want",
+         "zij",
+         "zullen",
+         "voor",
+         "hem",
+         "zorgen",
+         "als",
+         "de",
+         "Johnsons",
+         "in",
+         "Hawa\u00EF",
+         "zijn."
+      ],
+      "LiteralTranslation": [
+         "because",
+         "they",
+         "will",
+         "for",
+         "him",
+         "care",
+         "when",
+         "the",
+         "Johnsons",
+         "in",
+         "Hawaii",
+         "are"
+      ],
+      "ProperTranslation": "because they will care for him while the Johnsons are in Hawaii.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-29.mp3",
+      "AudioNumber": 29
+   },
+   {
+      "MainText": [
+         "Zij",
+         "brengen",
+         "hun",
+         "bagage",
+         "naar",
+         "buiten,"
+      ],
+      "LiteralTranslation": [
+         "they",
+         "bring",
+         "their",
+         "luggage",
+         "to",
+         "outside"
+      ],
+      "ProperTranslation": "They bring their luggage out of the house,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-30.mp3",
+      "AudioNumber": 30
+   },
+   {
+      "MainText": [
+         "pakken",
+         "het",
+         "in",
+         "de",
+         "auto"
+      ],
+      "LiteralTranslation": [
+         "pack",
+         "it",
+         "in",
+         "the",
+         "car"
+      ],
+      "ProperTranslation": "put it in the car,",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-31.mp3",
+      "AudioNumber": 31
+   },
+   {
+      "MainText": [
+         "en",
+         "nemen",
+         "dan",
+         "afscheid",
+         "van",
+         "Mickey."
+      ],
+      "LiteralTranslation": [
+         "and",
+         "take",
+         "then",
+         "parting",
+         "from",
+         "Mickey"
+      ],
+      "ProperTranslation": "and then they say goodbye to Mickey.",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-1/dutch-1-audio-32.mp3",
+      "AudioNumber": 32
+   }
+]

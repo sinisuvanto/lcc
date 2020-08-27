@@ -1,0 +1,189 @@
+[
+   {
+      "5-StepsPath": "/dir/english/courses/dutch-english/5-steps",
+      "5-StepsText": "Back to 5 Steps",
+      "FlagPath": "/assets/img/flags/netherlands-flag-wave-xs.png",
+      "FootPath": "/assets/img/footsteps/foot5.png",
+      "ChapterTitle": "3. Two Important Verbs",
+      "NextPath": "/dir/english/courses/dutch-english/step-5/4-more-verbs",
+      "NextText": "Next Word List"
+   },
+   {
+      "MainText": [
+         "ik",
+         "ben"
+      ],
+      "LiteralTranslation": [
+         "I",
+         "am"
+      ],
+      "ProperTranslation": "I am",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-12.mp3"
+   },
+   {
+      "MainText": [
+         "jij",
+         "bent"
+      ],
+      "LiteralTranslation": [
+         "you",
+         "are"
+      ],
+      "ProperTranslation": "You (sing) are"
+   },
+   {
+      "MainText": [
+         "hij",
+         "is"
+      ],
+      "LiteralTranslation": [
+         "he",
+         "is"
+      ],
+      "ProperTranslation": "He is"
+   },
+   {
+      "MainText": [
+         "zij",
+         "is"
+      ],
+      "LiteralTranslation": [
+         "she",
+         "is"
+      ],
+      "ProperTranslation": "She is"
+   },
+   {
+      "MainText": [
+         "het",
+         "is"
+      ],
+      "LiteralTranslation": [
+         "it",
+         "is"
+      ],
+      "ProperTranslation": "It is"
+   },
+   {
+      "MainText": [
+         "wij",
+         "zijn"
+      ],
+      "LiteralTranslation": [
+         "we",
+         "are"
+      ],
+      "ProperTranslation": "We are"
+   },
+   {
+      "MainText": [
+         "jullie",
+         "zijn"
+      ],
+      "LiteralTranslation": [
+         "you",
+         "are"
+      ],
+      "ProperTranslation": "You (pl) are"
+   },
+   {
+      "MainText": [
+         "zij",
+         "zijn"
+      ],
+      "LiteralTranslation": [
+         "they",
+         "are"
+      ],
+      "ProperTranslation": "They are"
+   },
+   {
+      "MainText": [
+         "ik",
+         "heb"
+      ],
+      "LiteralTranslation": [
+         "I",
+         "have"
+      ],
+      "ProperTranslation": "I have",
+      "AudioPath": "http://www.languagecrashcourses.com/media/audio/dutch-audios/step-5/dutch-5-audio-13.mp3"
+   },
+   {
+      "MainText": [
+         "jij",
+         "hebt"
+      ],
+      "LiteralTranslation": [
+         "you",
+         "have"
+      ],
+      "ProperTranslation": "You (sing) have"
+   },
+   {
+      "MainText": [
+         "hij",
+         "heeft"
+      ],
+      "LiteralTranslation": [
+         "he",
+         "has"
+      ],
+      "ProperTranslation": "He has"
+   },
+   {
+      "MainText": [
+         "zij",
+         "heeft"
+      ],
+      "LiteralTranslation": [
+         "she",
+         "has"
+      ],
+      "ProperTranslation": "She has"
+   },
+   {
+      "MainText": [
+         "het",
+         "heeft"
+      ],
+      "LiteralTranslation": [
+         "it",
+         "has"
+      ],
+      "ProperTranslation": "It has"
+   },
+   {
+      "MainText": [
+         "wij",
+         "hebben"
+      ],
+      "LiteralTranslation": [
+         "we",
+         "have"
+      ],
+      "ProperTranslation": "We have"
+   },
+   {
+      "MainText": [
+         "jullie",
+         "hebben"
+      ],
+      "LiteralTranslation": [
+         "you",
+         "have"
+      ],
+      "ProperTranslation": "You (pl) have"
+   },
+   {
+      "MainText": [
+         "zij",
+         "hebben"
+      ],
+      "LiteralTranslation": [
+         "they",
+         "have"
+      ],
+      "ProperTranslation": "They have"
+   }
+]
